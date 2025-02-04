@@ -1,0 +1,14 @@
+.
+├── _config.yml
+├── index.html
+├── _layouts
+│   ├── default.html
+│   └── post.html
+├── _includes
+│   ├── header.html
+│   └── footer.html
+├── _posts
+│   └── 2025-01-01-welcome-to-jekyll.md
+└── assets
+    └── css
+         └── main.css
