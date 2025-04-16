@@ -1,9 +1,0 @@
-title: Jianhao Zhang
-email: jianhao.zhang@noaa.gov, jianhao.zhang-1@colorado.edu
-description: "Welcome to my personal website built with Jekyll."
-baseurl: ""        # the subpath of your site, e.g. /blog
-url: "https://jianhao1991.github.io"  # your site's URL
-markdown: kramdown
-# You can remove the theme line if you’re using your custom layout files:
-theme: minima
-
