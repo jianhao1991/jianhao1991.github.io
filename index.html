@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+		<script src="https://cdn.jsdelivr.net/npm/bibtex-js/dist/bibtex.min.js"></script>
 	</head>
 	<body class="is-preload">
 
@@ -113,7 +114,11 @@
 							<header>
 								<h2>Publications</h2>
 							</header>
-							<div align="left">
+							<div id="bibtex-display"></div>
+
+
+							
+							<!--div align="left">
 						    <br>
 							<p><b>Peer-reviewed publications:</b><br>
 								<ul type="circle">
@@ -121,7 +126,7 @@
 								p {margin: 7px auto}
 								</style>
 							<li><p style="text-align:justify; text-justify:inter-ideograph; line-height:1.6";><b>J.Zhang</b>, Y.-S.Chen, E.Gryspeerdt, T.Yamaguchi, and G.Feingold, 2025: <a href="https://www.nature.com/articles/s43247-024-01911-9">Radiative forcing from the 2020 shipping fuel regulation is large but hard to detect</a>. <i>Commun. Earth Environ.</i>, 6(18), pp. 1–11.</li>
-							<li><p style="text-align:justify; text-justify:inter-ideograph; line-height:1.6";>	
+							<li><p style="text-align:justify; text-justify:inter-ideograph; line-height:1.6";>Y.-S. 
 								</p>
 								</ul>
 							</div>
@@ -136,7 +141,7 @@
 							<li><p style="text-align:justify; text-justify:inter-ideograph; line-height:1.6";><b>J. Zhang</b> and Graham Feingold, 2024: <a href="https://higherlogicdownload.s3.amazonaws.com/APS/69e619fa-6812-4295-b8b5-b6dfb5ebe1d5/UploadedImages/GPC_newsletter-Oct2024v4.pdf">Physical Science of Marine Cloud Brightening: Knowledge and Gaps</a>, Topical Group on the Physics of Climate, American Physical Society, pp. 1-4. <b><em>[invited article]</em></b></li>
 							<li><p style="text-align:justify; text-justify:inter-ideograph; line-height:1.6";>G. Feingold, V. Ghate, L. M. Russell, et al., 2022: <a href="https://cpo.noaa.gov/doe-noaa-marine-cloud-brightening-workshop-report/">DOE-NOAA Marine Cloud Brightening Workshop Report</a>, DOE/SC-0207, NOAA Technical Report OAR ESRL/CSL-1, pp. 1-33.</li></p>
 								</ul>
-							</div>
+							</div-->
 							
 						</div>
 					</section>
@@ -194,6 +199,24 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+                        <!-- Add the BibTeX parsing JavaScript here -->
+			<script>
+    			// Load the .bib file and render it
+    			BibTeXJS.displayBibtex("assets/publications.bib", {
+        		outputElementId: "bibtex-display",
+        		template: `
+            			<ul>
+                		    {{#entries}}
+                    			<li>
+                        		    <strong>{{title}}</strong>, 
+                        		    <em>{{author}}</em>, 
+                        		    {{year}}. 
+                        		    {{#doi}}<a href="https://doi.org/{{doi}}" target="_blank">DOI</a>{{/doi}}
+                    			</li>
+                		    {{/entries}}
+            			</ul>
+        		`
+    			});
+			</script>
 	</body>
 </html>
