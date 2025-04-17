@@ -111,7 +111,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-weight: 320;
 		color: #666;
 		line-height: 1.5em;
 	}
@@ -155,7 +155,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 300;
+		font-weight: 400;
 		color: #666;
 	}
 
@@ -1753,6 +1753,11 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 		}
+		.image.avatar70 {
+			display: block;
+			width: 70%;
+			margin-bottom: 1em;
+		}
 
 		.image.avatar48 {
 			width: 48px;
@@ -1760,20 +1765,21 @@ input, select, textarea {
 			background: #f00;
 		}
 
-			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
-			}
-
 		.image.fit {
 			display: block;
 			width: 100%;
 		}
 
+		.image.fit70 {
+			display: block;
+			width: 80%;
+			margin: 0 auto;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+			margin: 0 auto;
 		}
 
 		.image.left {
@@ -2119,8 +2125,11 @@ input, select, textarea {
 		}
 
 		#logo .image {
-			position: absolute;
+			/* position: absolute;
 			left: 0;
+			top: 0; */
+			position: relative;
+			left: 30%;
 			top: 0;
 		}
 
@@ -2249,6 +2258,8 @@ input, select, textarea {
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
+				/* background-image: url("../../images/green_rain.jpg"); */
+				/* opacity: 0.8; */
 			}
 
 			#main > section.two {
