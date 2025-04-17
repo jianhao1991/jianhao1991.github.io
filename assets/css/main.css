@@ -2640,5 +2640,19 @@ input, select, textarea {
 				#footer .copyright li:first-child {
 					margin-top: 0;
 				}
+			#publications {
+    					padding: 4em 0;
+    					text-align: left;
+			}
 
+			#publications ul {
+    					list-style: none;
+    					padding: 0;
+			}
+
+			#publications li {
+    					margin-bottom: 1em;
+    					font-size: 1em;
+    					line-height: 1.5;
+			}
 	}
