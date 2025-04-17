@@ -11,7 +11,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-		<script src="https://cdn.jsdelivr.net/npm/bibtex-js/dist/bibtex.min.js"></script>
+		<!-- jQuery (BibTeX‑JS depends on it) -->
+		<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+		<!-- BibTeX‑JS and its default stylesheet -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bibtex-js/css/bibtex.css">
+		<script src="https://cdn.jsdelivr.net/npm/bibtex-js/js/bibtex_js.js"></script>
+
 	</head>
 	<body class="is-preload">
 
@@ -199,24 +205,18 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-                        <!-- Add the BibTeX parsing JavaScript here -->
 			<script>
-    			// Load the .bib file and render it
-    			BibTeXJS.displayBibtex("assets/publications.bib", {
-        		outputElementId: "bibtex-display",
-        		template: `
-            			<ul>
-                		    {{#entries}}
-                    			<li>
-                        		    <strong>{{title}}</strong>, 
-                        		    <em>{{author}}</em>, 
-                        		    {{year}}. 
-                        		    {{#doi}}<a href="https://doi.org/{{doi}}" target="_blank">DOI</a>{{/doi}}
-                    			</li>
-                		    {{/entries}}
-            			</ul>
-        		`
-    			});
+  			 $(function() {
+    			   $("#bibtex-display").bibtex({
+      				bibtex: "/assets/publications.bib",
+      				style: "apa",            // or "ieee", "acm", ...
+      				sort: function(a, b) {   // e.g. reverse-chronological
+        			  return b.year - a.year;
+      			    }
+    			   });
+  			 });
 			</script>
+
+
 	</body>
 </html>
