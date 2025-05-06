@@ -345,12 +345,10 @@ input, select, textarea {
 
 		.row > .col-6 {
 			width: 50%;
-			background-color: #eefcebcb;
 		}
 
 		.row > .off-6 {
 			margin-left: 50%;
-			background-color: #eefcebcb;
 		}
 
 		.row > .col-7 {
@@ -395,7 +393,6 @@ input, select, textarea {
 
 		.row > .col-12 {
 			width: 100%;
-			background-color: #eefcebcb;
 		}
 
 		.row > .off-12 {
@@ -1619,7 +1616,6 @@ input, select, textarea {
 
 				.row > .col-12-mobile {
 					width: 100%;
-					background-color: #eefcebcb;
 				}
 
 				.row > .off-12-mobile {
