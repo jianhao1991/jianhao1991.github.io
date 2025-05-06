@@ -2262,12 +2262,11 @@ input, select, textarea {
 				background-color: #81918E;
 				background-image: url("../../images/banner3.jpg");
 				/* background-image: url("../../images/green_rain.jpg"); */
-				opacity: 0.8;
+				opacity: 0.5;
 			}
 
 			#main > section.two {
 				background-color: #f5fafa;
-				background-image: url("../../images/pic07.jpg");
 			}
 
 			#main > section.three {
@@ -2284,7 +2283,7 @@ input, select, textarea {
 
 			#main > section.six {
 				background-color: #e8edec;
-				background-image: url("../../images/logo.JPG");
+				background-image: url("../../images/earth.png");
 			}
 
 /* Wide */
