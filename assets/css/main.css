@@ -2275,6 +2275,15 @@ input, select, textarea {
 				background-color: #e8edec;
 			}
 
+			#main > section.five {
+				background-color: #e8edec;
+			}
+
+			#main > section.six {
+				background-color: #e8edec;
+				background-image: url("../../images/logo.JPG");
+			}
+
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
