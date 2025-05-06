@@ -345,6 +345,7 @@ input, select, textarea {
 
 		.row > .col-6 {
 			width: 50%;
+			background-color: #eefcebcb;
 		}
 
 		.row > .off-6 {
@@ -394,6 +395,7 @@ input, select, textarea {
 
 		.row > .col-12 {
 			width: 100%;
+			background-color: #eefcebcb;
 		}
 
 		.row > .off-12 {
@@ -1617,6 +1619,7 @@ input, select, textarea {
 
 				.row > .col-12-mobile {
 					width: 100%;
+					background-color: #eefcebcb;
 				}
 
 				.row > .off-12-mobile {
@@ -2260,7 +2263,7 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #ffffff;
 				background-image: url("../../images/banner3.jpg");
 				/* background-image: url("../../images/green_rain.jpg"); */
 				opacity: 0.5;
@@ -2275,15 +2278,14 @@ input, select, textarea {
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #f5fafa;
 			}
 
 			#main > section.five {
-				background-color: #e8edec;
+				background-color: #ecf1f1;
 			}
 
 			#main > section.six {
-				background-color: #e8edec;
 				background-image: url("../../images/earth.png");
 				background-repeat: no-repeat;
 				background-size: cover;
