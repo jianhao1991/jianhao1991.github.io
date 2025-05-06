@@ -2285,6 +2285,9 @@ input, select, textarea {
 			#main > section.six {
 				background-color: #e8edec;
 				background-image: url("../../images/earth.png");
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-position: center;
 			}
 
 /* Wide */
