@@ -2259,9 +2259,10 @@ input, select, textarea {
 			}
 
 			#main > section.one {
+				background-color: #000000;
 				background-image: url("../../images/banner3.jpg");
 				/* background-image: url("../../images/green_rain.jpg"); */
-				opacity: 0.5;
+				/* opacity: 0.5; */
 			}
 
 			#main > section.two {
