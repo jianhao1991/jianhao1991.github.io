@@ -2259,7 +2259,6 @@ input, select, textarea {
 			}
 
 			#main > section.one {
-				background-color: #ffffff;
 				background-image: url("../../images/banner3.jpg");
 				/* background-image: url("../../images/green_rain.jpg"); */
 				opacity: 0.5;
@@ -2270,7 +2269,7 @@ input, select, textarea {
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #dee4e4;
 			}
 
 			#main > section.four {
@@ -2278,7 +2277,7 @@ input, select, textarea {
 			}
 
 			#main > section.five {
-				background-color: #ecf1f1;
+				background-color: #dee4e4;
 			}
 
 			#main > section.six {
