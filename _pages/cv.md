@@ -119,24 +119,24 @@ Miscellaneous
 
 ## Selected Oral Presentations (2022– )
 
-- **May 2025** — AGU AS Early-Career Seminar (Online), “Global climate and air quality implications of regional emission shift.” [(invited)]
-- **Apr. 2025** — Boulder Valley Rotary Club Weekly Meeting (Boulder, CO), “How to measure the shade of clouds that are no longer there.” [(invited)]
-- **Apr. 2025** — Climate Dynamics & Impacts, Vecchi/Soden Joint Group Meeting (Princeton University & University of Miami, Online), “Large radiative forcing from the 2020 shipping fuel regulation is hard to detect: Implications for Marine Cloud Brightening.” [(invited)]
-- **Apr. 2025** — University of Washington Inaugural MCB Program Workshop (Leavenworth, WA), Session co-lead and presenter, “Identifying conditions amenable to cloud brightening/MCB.” [(invited)]
-- **2025** — NOAA Science Seminar Series (Online), “AI Applications in Earth System and Climate Science: Aerosols and Air Quality.” [(invited)]
+- **May 2025** — AGU AS Early-Career Seminar (Online), “Global climate and air quality implications of regional emission shift.” [(invited)](#)
+- **Apr. 2025** — Boulder Valley Rotary Club Weekly Meeting (Boulder, CO), “How to measure the shade of clouds that are no longer there.” [(invited)](#)
+- **Apr. 2025** — Climate Dynamics & Impacts, Vecchi/Soden Joint Group Meeting (Princeton University & University of Miami, Online), “Large radiative forcing from the 2020 shipping fuel regulation is hard to detect: Implications for Marine Cloud Brightening.” [(invited)](#)
+- **Apr. 2025** — University of Washington Inaugural MCB Program Workshop (Leavenworth, WA), Session co-lead and presenter, “Identifying conditions amenable to cloud brightening/MCB.” [(invited)](#)
+- **2025** — NOAA Science Seminar Series (Online), “AI Applications in Earth System and Climate Science: Aerosols and Air Quality.” [(invited)](#)
 
 - **Dec. 2024** — AGU Fall Meeting (Washington, D.C.), “Large radiative forcing from the 2020 shipping fuel regulation is hard to detect.”
-- **Nov. 2024** — NOAA Advancing Innovative Research Seminar Series (Online), “Large radiative forcing from the 2020 shipping fuel regulation is hard to detect.” [(invited)]
+- **Nov. 2024** — NOAA Advancing Innovative Research Seminar Series (Online), “Large radiative forcing from the 2020 shipping fuel regulation is hard to detect.” [(invited)](#)
 - **Oct. 2024** — Micro2Macro Workshop by US CLIVAR (Laramie, WY), “Assessing the non-linear cloud susceptibility to Nd using Machine Learning: differences between GCMs and observation.”
-- **Jun. 2024** — TU Delft (Delft, Netherlands), “On the viability of Marine Cloud Brightening: Albedo susceptibility, cloud adjustment, and detectability.” [(invited)]
+- **Jun. 2024** — TU Delft (Delft, Netherlands), “On the viability of Marine Cloud Brightening: Albedo susceptibility, cloud adjustment, and detectability.” [(invited)](#)
 - **May 2024** — ACPC Workshop 2024 (London & online, UK), “Natural variability obscures the detectability of IMO2020’s substantial perturbation to cloud radiative effect.”
 
 - **Nov. 2023** — ACTIVATE Science Team Meeting 2023 (Tucson, AZ), “Exploring emergent properties of complex aerosol-cloud-meteorology interactions over the WN Atlantic during ACTIVATE.”
 - **Nov. 2023** — NOAA Earth Radiation Budget Project Meeting (Boulder, CO), “NOAA Marine Cloud Brightening Satellite Work.”
-- **Oct. 2023** — Brookhaven National Laboratory (Long Island, NY), “Aerosol-cloud interactions in marine warm clouds and implications for Marine Cloud Brightening.” [(invited)]
+- **Oct. 2023** — Brookhaven National Laboratory (Long Island, NY), “Aerosol-cloud interactions in marine warm clouds and implications for Marine Cloud Brightening.” [(invited)](#)
 - **May 2023** — ACPC Workshop 2023 (Houston & online, TX), “Time-dependent cloud adjustments to aerosol in non-precipitating stratocumulus: diurnal cycle and MCB implications.”
 
-- **Dec. 2022** — AGU Fall Meeting (Chicago, IL), “On the Conditionality of Marine Low Cloud Albedo Susceptibility: from Meteorological Conditions to Spatiotemporal Scales.” [(invited)]
+- **Dec. 2022** — AGU Fall Meeting (Chicago, IL), “On the Conditionality of Marine Low Cloud Albedo Susceptibility: from Meteorological Conditions to Spatiotemporal Scales.” [(invited)](#)
 - **Aug. 2022** — AMS 16th Conference on Cloud Physics (Madison, WI), “Distinct regional fingerprints of marine low cloud albedo susceptibility.”
 - **May 2022** — ACPC Workshop 2022 (Online), “Distinct regional meteorological influences on low cloud albedo susceptibility over global marine stratocumulus regions.”
 - **Jan. 2022** — AMS Annual Meeting (New Orleans & online, LA):  
