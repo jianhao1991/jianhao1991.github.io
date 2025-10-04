@@ -4,18 +4,15 @@ title:  The Impact of Biomass Burning Smoke on Clouds and Climate
 date: 2017-2020
 description: Using LASIC field campaign data to characterize how does sunlight-absorbing aerosols affect marine stratocumulus clouds
 tags: satellite-observations ground-based-observations statocumulus
-mermaid:
-  enabled: true
-  zoomable: true
 categories: research
-thumbnail: assets/img/9.jpg
+thumbnail: assets/img/Z19.png
 ---
 
 Eastern subtropical oceans are home to warm and bright low-level stratocumulus cloud decks. Among them, the southeast Atlantic basin presents an unique opportunity to study smoke-cloud-radiation interactions where seasonally emitted biomass burning plumes from the southern African continent are being advected over the oceanic region via the southern African Easterly Jet. In this work, I investigated how the presence of biomass burning smoke affects marine boundary layer clouds, particularly in the remote southeast Atlantic region. I demonstrated that the presence of sunlight-absorbing aerosols in the boundary layer suppress cloud water and coverage by modifying the boundary layer's thermodynamic structure and coupling state. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Z19.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +23,7 @@ The seasonal variation in the vertical distribution of smoke contributes to the 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/9.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/Z21.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
