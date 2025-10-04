@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Mark
-middle_name: D.
-last_name: Zelinka
-email: zelinka1@llnl.gov
+first_name: Jianhao
+middle_name:
+last_name: Zhang
+email: jianhao.zhang@noaa.gov
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Mark Zelinka | Climate Scientist | Lawrence Livermore National Laboratory.
+  Jianhao Zhang | Research Scientist | CIRES at University of Colorado Boulder & NOAA CSL.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
