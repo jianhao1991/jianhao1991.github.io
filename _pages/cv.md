@@ -4,7 +4,7 @@ permalink: /cv/
 title: curriculum vitae
 description: 
 nav: true
-nav_order: 1
+nav_order: 2
 cv_pdf: Jianhao_CV_Sept2025.pdf
 toc:
   sidebar: left
@@ -41,7 +41,7 @@ toc:
 - Finalist, University of Miami Best Ph.D. Dissertation, 2020  
 - University of Miami Graduate Fellowship (highest graduate school award), 2014  
 
-## Grants (PI/Co-I)
+## Grants
 - **PI**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
 - **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
 - **Co-I**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
@@ -144,4 +144,4 @@ toc:
 
 
 ## [full list of publications](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
-_(Full list in CV PDF or the **Publications** tab)_
+_(also in CV PDF and the **Publications** tab)_
