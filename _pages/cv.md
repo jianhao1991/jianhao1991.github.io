@@ -23,9 +23,9 @@ toc:
 
 
 ## Professional Experience
-- **Research Scientist II**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder — May 2023–present
-- **Research Scientist I**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder — Sept 2021–Apr 2023
-- **NRC Postdoctoral Fellow**, NOAA Chemical Sciences Laboratory (host: Graham Feingold) — Sept 2020–Aug 2021
+- **Research Scientist II**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, May 2023–present
+- **Research Scientist I**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, Sept 2021–Apr 2023
+- **NRC Postdoctoral Fellow**, NOAA Chemical Sciences Laboratory (host: Graham Feingold), Sept 2020–Aug 2021
 
 ## Education
 - **Ph.D., Meteorology & Physical Oceanography**, University of Miami, 2020  
@@ -48,9 +48,6 @@ toc:
 - **Co-I**, Evaluating Biases in ACI Metrics with ARM Data & Models (DOE ASR, 2020–2023, \$510,472)  
 - **PI**, NRC Fellowship Award (2020–2021, \$62,000)  
 
-## [Click Here for my Google Scholar Profile](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
-_(Full list in CV PDF or the **Publications** tab)_
-
 ## Teaching
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
 - Teaching Assistant: Introduction to Weather and Climate, University of Miami (2015)  
@@ -62,10 +59,11 @@ _(Full list in CV PDF or the **Publications** tab)_
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
 
 ## Professional Activities, Service, & Leadership Roles
-**Grant Reviewer**  
-- DOE Atmospheric System Research (ASR)  
-- University of Colorado AB Nexus Program  
-- NOAA Hollings Undergraduate Scholarship  
+**Convening/Leadership Roles**  
+- Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
+- Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
+- Co-Convener, AGU Fall Meeting (2024)  
+- Co-Chair, AMS 16th Conf. on Cloud Physics (2022)  
 
 **Committees**  
 - CIRES Members’ Council (2025–present)  
@@ -73,11 +71,10 @@ _(Full list in CV PDF or the **Publications** tab)_
 - NOAA OAR Subject Matter Expert in Satellite Data (2022–present)  
 - Univ. of Miami RSMAS Student Seminar Committee (2016)  
 
-**Convening/Leadership Roles**  
-- Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
-- Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
-- Co-Convener, AGU Fall Meeting (2024)  
-- Co-Chair, AMS 16th Conf. on Cloud Physics (2022)  
+**Grant Reviewer**  
+- DOE Atmospheric System Research (ASR)  
+- University of Colorado AB Nexus Program  
+- NOAA Hollings Undergraduate Scholarship  
 
 **Peer Reviews**  
 - _Atmosphere_
@@ -146,4 +143,5 @@ _(Full list in CV PDF or the **Publications** tab)_
   2) “Amplified seasonal cycle in southeastern Atlantic low cloud fraction when biomass-burning smoke is present.”
 
 
-
+## [full list of publications](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
+_(Full list in CV PDF or the **Publications** tab)_
