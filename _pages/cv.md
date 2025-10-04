@@ -49,17 +49,17 @@ toc:
 - **P.I.**, NRC Fellowship Award (2020–2021, \$62,000)  
 
 ## Teaching, Mentoring & Outreach
-*Teaching*
+Teaching
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
 - Teaching Assistant: Introduction to Weather and Climate, University of Miami (2015)  
 - Math Tutor: AP Calculus & undergraduate statistics, Miami (2015–2020)  
 
-**Mentoring**
+Mentoring
 - Tyler Tatro, Ph.D. student, University of Miami (2022–present)  
 - Alexander J. Thompson, Research Scientist, NOAA/PSL (2024–2025)  
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
 
-**Outreach** 
+Outreach
 - CIRES Science Pathways Program speaker (2025–)  
 - Scientist Panelist, Boulder High School Environmental Studies (2025)  
 - Panelist, CIRES Graduate Student Workshop (2025)  
@@ -68,24 +68,24 @@ toc:
 - Science vetting: children’s book *Up, Up High*  
 
 ## Professional Activities, Service, & Leadership Roles
-**Chair & Discussion Lead**  
+Chair & Discussion Lead  
 - Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
 - Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
 - Co-Convener, AGU Fall Meeting (2024)  
 - Co-Chair, AMS 16th Conf. on Cloud Physics (2022)  
 
-**Committees**  
+Committees
 - CIRES Members’ Council (2025–present)  
 - CIRES Mentoring Program (Vice Chair, 2024–present)  
 - NOAA OAR Subject Matter Expert in Satellite Data (2022–present)  
 - Univ. of Miami RSMAS Student Seminar Committee (2016)  
 
-**Grant Reviews**  
+Grant Reviews
 - DOE Atmospheric System Research (ASR)  
 - University of Colorado AB Nexus Program  
 - NOAA Hollings Undergraduate Scholarship  
 
-**Peer Reviews**  
+Peer Reviews  
 - _Atmosphere_
 - _Atmospheric Chemistry and Physics_
 - _Atmospheric Environment_
@@ -102,18 +102,18 @@ toc:
 - _npj Climate and Atmospheric Science_
 - _Remote Sensing_
 
-**Trainings**  
+Trainings  
 - Dialogic Skills Workshop Certificate, Univ. of Colorado Boulder (2025)  
 - Micro2Macro Workshop (US CLIVAR, rapporteur, 2024)  
 - DOE–NOAA MCB Workshop (rapporteur, 2022)  
 - EarthCare Workshop (2022); Aerosol–Clouds–Convection–Precipitation Workshop (2020)  
 - NCAR Radiation Workshop (2016); DOE ARM Summer School (2015)  
 
-**Field Campaigns**  
+Field Campaigns  
 - ORACLES–2016, Swakopmund, Namibia  
 - ORACLES–2017, São Tomé and Príncipe  
 
-**Miscellaneous**  
+Miscellaneous  
 - Volunteer, CIRES Education & Outreach  
 - Intramural Basketball Official, Florida State University (2014)  
 
