@@ -48,10 +48,10 @@ toc:
 - **J. Zhang**, X. Zhou, T. Goren, and G. Feingold (2022): Albedo susceptibility of northeastern Pacific stratocumulus: the role of covarying meteorological conditions. _Atmos. Chem. Phys._, 22(2), 861–880. [*doi:10.5194/acp-22-861-2022*](https://doi.org/10.5194/acp-22-861-2022)
 
 ## 2021
-- **J. Zhang** and P. Zuidema (2021): Sunlight-absorbing aerosol amplifies the seasonal cycle in low-cloud fraction over the southeast Atlantic. _Atmos. Chem. Phys._, 21(14), 11179–11199. [*doi:10.5194/acp-21-11179-2021*](https://doi.org/10.5194/acp-21-11179-2021)
-  - [Smoke Studies: Crucial Cloud-Deck Science](https://www.arm.gov/news/features/post/71223/). <i class="fas fa-bullhorn"></i> <br>
-
 - X. Zhou, **J. Zhang**, and G. Feingold (2021): On the importance of sea surface temperature for aerosol-induced brightening of marine clouds and implications for cloud feedback in a future warmer climate. _Geophys. Res. Lett._, 48(24), e2021GL095896. [*doi:10.1029/2021GL095896*](https://doi.org/10.1029/2021GL095896)
+
+- **J. Zhang** and P. Zuidema (2021): Sunlight-absorbing aerosol amplifies the seasonal cycle in low-cloud fraction over the southeast Atlantic. _Atmos. Chem. Phys._, 21(14), 11179–11199. [*doi:10.5194/acp-21-11179-2021*](https://doi.org/10.5194/acp-21-11179-2021)
+  - [Smoke Studies: Crucial Cloud-Deck Science](https://www.arm.gov/news/features/post/71223/). <i class="fas fa-bullhorn"></i>
 
 ## 2020
 - S. Abel, P. Barrett, P. Zuidema, **J. Zhang** et al. (2020): Open cells exhibit weaker entrainment of free-tropospheric biomass-burning aerosol into the south-east Atlantic boundary layer. _Atmos. Chem. Phys._, 20(7), 4059–4084. [*doi:10.5194/acp-20-4059-2020*](https://doi.org/10.5194/acp-20-4059-2020)

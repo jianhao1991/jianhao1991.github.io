@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist | CIRES at University of Colorado Boulder & NOAA CSL
+subtitle: Research Scientist  |  CIRES at University of Colorado Boulder & NOAA CSL
 
 profile:
   align: right
