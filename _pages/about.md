@@ -22,5 +22,8 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
-
+<br>
+<br>
+<br>
+<br>
 I'm interested in developing innovative data-driven approaches, leveraging observational and modeling datasets of the climate system, to better understand cloud processes, their natural variability and responses to external forcings across scales. In particular, my research has focused extensively on aerosol-cloud interactions, utilizing a diverse set of tools ranging from geostatistical analyses of satellite remote sensing and field measurements to high-fidelity numerical modeling to Artificial Intelligence.

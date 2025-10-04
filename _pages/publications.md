@@ -21,6 +21,7 @@ toc:
 
 ## 2025
 - G. Feingold, F. Glassmeier, **J. Zhang**, and F. Hoffmann (2025): Opinion: Inferring process from snapshots of cloud systems. _Atmos. Chem. Phys._, 25(18), 10869–10885. [*doi:10.5194/acp-25-10869-2025*](https://doi.org/10.5194/acp-25-10869-2025)
+
 - **J. Zhang**, Y.-S. Chen, E. Gryspeerdt, T. Yamaguchi, and G. Feingold (2025): Radiative forcing from the 2020 shipping fuel regulation is large but hard to detect. _Commun. Earth Environ._, 6(18), 1–11. [*doi:10.1038/s43247-024-01911-9*](https://doi.org/10.1038/s43247-024-01911-9)
   - [The unintended consequences of reducing sulfur emissions from ships](https://cpo.noaa.gov/the-unintended-consequences-of-reducing-sulfur-emissions-from-ships/). <i class="fas fa-bullhorn"></i> 
   - [Scientists turn to artificial intelligence to access the warming effect of reduced pollution](https://research.noaa.gov/scientists-turn-to-artificial-intelligence-to-assess-the-warming-effect-of-reduced-pollution/). <i class="fas fa-bullhorn"></i> 
@@ -48,7 +49,7 @@ toc:
 
 ## 2021
 - **J. Zhang** and P. Zuidema (2021): Sunlight-absorbing aerosol amplifies the seasonal cycle in low-cloud fraction over the southeast Atlantic. _Atmos. Chem. Phys._, 21(14), 11179–11199. [*doi:10.5194/acp-21-11179-2021*](https://doi.org/10.5194/acp-21-11179-2021)
-  - [Smoke Studies: Crucial Cloud-Deck Science](https://www.arm.gov/news/features/post/71223/). <i class="fas fa-bullhorn"></i> 
+  - [Smoke Studies: Crucial Cloud-Deck Science](https://www.arm.gov/news/features/post/71223/). <i class="fas fa-bullhorn"></i> <br>
 
 - X. Zhou, **J. Zhang**, and G. Feingold (2021): On the importance of sea surface temperature for aerosol-induced brightening of marine clouds and implications for cloud feedback in a future warmer climate. _Geophys. Res. Lett._, 48(24), e2021GL095896. [*doi:10.1029/2021GL095896*](https://doi.org/10.1029/2021GL095896)
 
@@ -68,4 +69,4 @@ toc:
 ## Other Publications
 - **J. Zhang** and G. Feingold (2024): Physical Science of Marine Cloud Brightening: Knowledge and Gaps, in Topical Group on the Physics of Climate, American Physical Society, October 2024, pp. 1–4. [(invited article)](https://engage.aps.org/gpc/resources/newsletters)
 
-- G. Feingold, V. Ghate, L. M. Russell, et al. including **J. Zhang** (2022): DOE–NOAA Marine Cloud Brightening Workshop, in U.S. Department of Energy and U.S. Department of Commerce NOAA, DOE/SC-0207; NOAA Technical Report OAR ESRL/CSL-1, pp. 1–33. [https://doi.org/10.2172/1888986](https://doi.org/10.2172/1888986)
+- G. Feingold, V. Ghate, L. M. Russell, et al. including **J. Zhang** (2022): DOE–NOAA Marine Cloud Brightening Workshop, in U.S. Department of Energy and U.S. Department of Commerce NOAA, DOE/SC-0207; NOAA Technical Report OAR ESRL/CSL-1, pp. 1–33. [*https://doi.org/10.2172/1888986*](https://doi.org/10.2172/1888986)
