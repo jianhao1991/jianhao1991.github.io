@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
-nav: false
+permalink: /research/
+title: research
+nav: true
 nav_order: 1
 pagination:
   enabled: true
