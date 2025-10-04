@@ -49,7 +49,7 @@ toc:
 - **PI**, NRC Fellowship Award (2020–2021, \$62,000)  
 
 ## [Click Here for my Google Scholar Profile](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
-_(Full list in CV PDF or the Publication tab)_
+_(Full list in CV PDF or the **Publications** tab)_
 
 ## Teaching
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
