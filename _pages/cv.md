@@ -48,18 +48,27 @@ toc:
 - **Co-I**, Evaluating Biases in ACI Metrics with ARM Data & Models (DOE ASR, 2020–2023, \$510,472)  
 - **PI**, NRC Fellowship Award (2020–2021, \$62,000)  
 
-## Teaching
+## Teaching, Mentoring & Outreach
+**Teaching**
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
 - Teaching Assistant: Introduction to Weather and Climate, University of Miami (2015)  
 - Math Tutor: AP Calculus & undergraduate statistics, Miami (2015–2020)  
 
-## Mentoring
+**Mentoring**
 - Tyler Tatro, Ph.D. student, University of Miami (2022–present)  
 - Alexander J. Thompson, Research Scientist, NOAA/PSL (2024–2025)  
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
 
+**Outreach** 
+- CIRES Science Pathways Program speaker (2025–)  
+- Scientist Panelist, Boulder High School Environmental Studies (2025)  
+- Panelist, CIRES Graduate Student Workshop (2025)  
+- Invited Scientist, Boulder Valley Rotary Club (2025)  
+- Evaluator: RECCS Symposium (2024), GLOBE International Virtual Symposium (2022), CLEAN Network (2022), AGU OSPA (2020)  
+- Science vetting: children’s book *Up, Up High*  
+
 ## Professional Activities, Service, & Leadership Roles
-**Convening/Leadership Roles**  
+**Chair & Discussion Lead**  
 - Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
 - Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
 - Co-Convener, AGU Fall Meeting (2024)  
@@ -71,7 +80,7 @@ toc:
 - NOAA OAR Subject Matter Expert in Satellite Data (2022–present)  
 - Univ. of Miami RSMAS Student Seminar Committee (2016)  
 
-**Grant Reviewer**  
+**Grant Reviews**  
 - DOE Atmospheric System Research (ASR)  
 - University of Colorado AB Nexus Program  
 - NOAA Hollings Undergraduate Scholarship  
@@ -107,14 +116,6 @@ toc:
 **Miscellaneous**  
 - Volunteer, CIRES Education & Outreach  
 - Intramural Basketball Official, Florida State University (2014)  
-
-## Outreach
-- CIRES Science Pathways Program speaker (2025–)  
-- Scientist Panelist, Boulder High School Environmental Studies (2025)  
-- Panelist, CIRES Graduate Student Workshop (2025)  
-- Invited Scientist, Boulder Valley Rotary Club (2025)  
-- Evaluator: RECCS Symposium (2024), GLOBE International Virtual Symposium (2022), CLEAN Network (2022), AGU OSPA (2020)  
-- Science vetting: children’s book *Up, Up High*  
 
 ## Selected Oral Presentations (2022– )
 

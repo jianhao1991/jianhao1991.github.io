@@ -13,8 +13,8 @@ toc:
 
 
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
-<i class="fab fa-github"></i> = Github Repository  
-<i class="far fa-file"></i> = Additional Coverage
+<i class="fas fa-bullhorn"></i> = Media Coverage  
+<i class="far fa-star"></i> = Highlight Paper
 
 ## Submitted
 - Ceppi, P., S. Wilson Kemsley, H. Andersen, T. Andrews, R. J. Kramer, P. Nowack, C. J. Wall, and **M. D. Zelinka**, 2025: Emerging low-cloud feedback and adjustment in global satellite observations, _Geophys. Res. Lett._, submitted. 
@@ -47,7 +47,7 @@ toc:
 
 - Terai, C. R., et al. including **M. D. Zelinka**, 2025: Climate Response to Warming in Cess-Potter Simulations Using the Global 3-km SCREAM, _J. Adv. Model. Earth Syst._, in press.
   
-- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: [Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004756),  _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2024MS004756. 
+- Qin, Y., P. -L. Ma, M. D. Zelinka, S. A. Klein, T. Zhang, X. Zheng, V. E. Larson, M. Huang, 2025: [*Impact of Turbulence on the Relationship between Cloud Feedback and Aerosol-Cloud Interaction in an E3SMv2 Perturbed Parameter Ensemble*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004756),  _J. Adv. Model. Earth Syst._, 17, doi:10.1029/2024MS004756. 
 
 - Mauritsen, T., et al. including **M. D. Zelinka**, 2025: [Earth's energy imbalance more than doubled in recent decades](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024AV001636), _AGU adv._, 6, doi:10.1029/2024AV001636.
       
