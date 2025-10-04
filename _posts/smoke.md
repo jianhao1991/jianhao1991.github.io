@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Impact of Biomass Burning Smoke on Clouds and Climate
-date: 2017-2020
+date: 
 description: Using LASIC field campaign data to characterize how does sunlight-absorbing aerosols affect marine stratocumulus clouds
 tags: satellite-observations ground-based-observations statocumulus
 categories: research
