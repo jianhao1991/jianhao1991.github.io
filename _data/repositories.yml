@@ -1,0 +1,11 @@
+github_users:
+  - mzelinka
+
+github_repos:
+  - mzelinka/assessed-cloud-fbks 
+  - mzelinka/cmip56_forcing_feedback_ecs 
+  - mzelinka/cloud-radiative-kernels
+  - mzelinka/cloud-regime-feedbacks
+  - mzelinka/greens-function
+  - mzelinka/klein2013-cloud-error-metrics
+  - mzelinka/meteorological_cloud_radiative_kernels
