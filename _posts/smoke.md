@@ -8,7 +8,7 @@ categories: research
 thumbnail: assets/img/Z19.png
 ---
 
-Eastern subtropical oceans are home to warm and bright low-level stratocumulus cloud decks. Among them, the southeast Atlantic basin presents an unique opportunity to study smoke-cloud-radiation interactions where seasonally emitted biomass burning plumes from the southern African continent are being advected over the oceanic region via the southern African Easterly Jet. In this work, I investigated how the presence of biomass burning smoke affects marine boundary layer clouds, particularly in the remote southeast Atlantic region. I demonstrated that the presence of sunlight-absorbing aerosols in the boundary layer suppress cloud water and coverage by modifying the boundary layer's thermodynamic structure and coupling state. 
+Eastern subtropical oceans are home to warm and bright low-level stratocumulus cloud decks. Among them, the southeast Atlantic basin presents an unique opportunity to study smoke-cloud-radiation interactions where seasonally emitted biomass burning plumes from the southern African continent are being advected over the oceanic region via the southern African Easterly Jet. In this work, I investigated how the presence of biomass burning smoke affects marine boundary layer clouds, particularly in the remote southeast Atlantic region. I demonstrated that the presence of sunlight-absorbing aerosols in the boundary layer suppress cloud water and coverage by modifying the boundary layer's thermodynamic structure and coupling state throughout the diurnal cycle. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
