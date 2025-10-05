@@ -266,7 +266,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['satellite', 'Marine-Cloud-Brightening', 'LES-modeling', 'ground-based', 'Machine-Learning'] # these tags will be displayed on the front page of your blog
+display_tags: ['satellite', 'Marine-Cloud-Brightening', 'LES-modeling', 'ground-based', 'Machine-Learning', 'Ergodicity'] # these tags will be displayed on the front page of your blog
 display_categories: ['research','overview'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
