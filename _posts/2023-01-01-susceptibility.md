@@ -19,7 +19,7 @@ Characterizing and quantifying aerosol-cloud interactions are fundamental to imp
     </div>
 </div>
 <div class="caption">
-    <b>[LEFT]</b> Cloud albedo susceptibility (colored filled circles) in LWP–N<sub>d</sub> space for the NE Pacific stratocumulus deck. Size of the filled circles indicates the relative frequency of occurrence. Three susceptibility regimes are identified: (i) precipitating–brightening (light green; positive susceptibility states with effective radii greater than 12µm), (ii) entrainment–darkening (brown; negative susceptibility states and right-hand side of the EEF isoline), and (iii) Twomey–brightening (dark green; non-precipitating states with positive susceptibilities) regimes. <b>[RIGHT]</b>  Monthly mean albedo susceptibility, overlaid with monthly mean low-cloud frequency of occurrence and cloud droplet number concentration.
+    [LEFT]Cloud albedo susceptibility (colored filled circles) in LWP–N<sub>d</sub> space for the NE Pacific stratocumulus deck. Size of the filled circles indicates the relative frequency of occurrence. Three susceptibility regimes are identified: (i) precipitating–brightening (light green; positive susceptibility states with effective radii greater than 12µm), (ii) entrainment–darkening (brown; negative susceptibility states and right-hand side of the EEF isoline), and (iii) Twomey–brightening (dark green; non-precipitating states with positive susceptibilities) regimes. [RIGHT] Monthly mean albedo susceptibility, overlaid with monthly mean low-cloud frequency of occurrence and cloud droplet number concentration.
 </div>
 
 <hr>
