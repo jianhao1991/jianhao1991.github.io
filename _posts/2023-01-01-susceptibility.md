@@ -10,7 +10,7 @@ thumbnail: assets/img/Z22_L_N.png
 
 Characterizing and quantifying aerosol-cloud interactions are fundamental to improving future climate projections and assessing the viability of MCB. In this work, I developed a satellite-based, bottom-up framework for deriving cloud albedo susceptibility that controls for co-varying meteorological factors. This method revealed three distinct, physically-supported susceptibility regimes, their meteorological drivers, and their spatiotemporal variability across marine low-cloud regions. 
 
-> **The Science**
+> **_The Science_**
 The sensitivity of cloud brightness (ability to cool the Earth through reflecting sunlight) to the amount of aerosol (tiny particles in the atmosphere) in the marine boundary layer is quantified using spaceborne observations of clouds and radiation. When clouds are sorted by their amount of water condensate and number of droplets, cloud regimes emerge, distinguished by their potential to be brightened or darkened in response to an aerosol perturbation. These regimes include (i) thin non-precipitating clouds that exhibit brightening, where the Twomey effect is expected to dominate; (ii) thicker non-precipitating clouds that exhibit darkening, where microphysically driven entrainment feedbacks are expected to be the most active; and (iii) mostly precipitating clouds that exhibit brightening, consistent with the precipitation-suppression mechanism due to reduced drop sizes.
 
 > We find that this regime manifestation in the LWP-Nd space is robust across different subtropical ocean basins where marine stratocumuli prevail. We further demonstrate that the covariation among synoptic scale environmental conditions dictates how clouds populate each regime, leading to regionally distinct evolutions in cloud brightness sensitivity to aerosol changes.
@@ -22,7 +22,7 @@ The sensitivity of cloud brightness (ability to cool the Earth through reflectin
 </div>
 <hr>
 
-> **The Impact**
+> **_The Impact_**
 Marine low-level liquid-form clouds cool the Earth effectively by reflecting a good fraction of sunlight that would otherwise be absorbed by the dark ocean. New insights provided by a bottom-up assessment of cloud albedo susceptibility based on satellite observations confront the long-standing impression that more aerosol leads to brighter clouds, the foundation of one of the proposed climate intervention approaches, namely Marine Cloud Brightening (MCB). We demonstrate that under certain meteorological conditions, especially under deep boundary layers and warm SST, clouds can be darkened due to loss of water condensate through enhanced droplet evaporation. Our work stresses the importance of accounting for meteorology-aerosol covariations when assessing the viability of MCB and scaling up local-to-global cloud radiative response to aerosol perturbations. These findings and the assessment approach are now widely recognized and adopted in the field. 
 <hr>
 
