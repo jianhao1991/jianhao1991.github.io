@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My P.I. proposal was funded by Reflective Inc. through their fellowship program [(A blog post by Reflective CEO Dakota Gruener)](https://reflective.org/ensuring-continuity-for-atmospheric-research/) :moneybag:. 
+My P.I. proposal was funded by Reflective Inc. through their fellowship program [(A blog post by Reflective CEO Dakota Gruener)](https://reflective.org/ensuring-continuity-for-atmospheric-research/). :moneybag:
