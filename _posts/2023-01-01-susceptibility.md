@@ -20,7 +20,6 @@ The sensitivity of cloud brightness (ability to cool the Earth through reflectin
         {% include figure.html path="assets/img/susceptibility_1slide.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<hr>
 
 > **_The Impact_**
 Marine low-level liquid-form clouds cool the Earth effectively by reflecting a good fraction of sunlight that would otherwise be absorbed by the dark ocean. New insights provided by a bottom-up assessment of cloud albedo susceptibility based on satellite observations confront the long-standing impression that more aerosol leads to brighter clouds, the foundation of one of the proposed climate intervention approaches, namely Marine Cloud Brightening (MCB). We demonstrate that under certain meteorological conditions, especially under deep boundary layers and warm SST, clouds can be darkened due to loss of water condensate through enhanced droplet evaporation. Our work stresses the importance of accounting for meteorology-aerosol covariations when assessing the viability of MCB and scaling up local-to-global cloud radiative response to aerosol perturbations. These findings and the assessment approach are now widely recognized and adopted in the field. 
