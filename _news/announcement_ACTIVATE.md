@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received funds from the [NASA EV3 ACTIVATE program](https://science.larc.nasa.gov/activate/) to work on cloud process inference in geophysical variable spaces using ACTIVATE data. :moneybag:
+I received funds from the [NASA EV3 ACTIVATE program](https://science.larc.nasa.gov/activate/) to work on cloud process inference using geophysical variable spaces with ACTIVATE data. :moneybag:
