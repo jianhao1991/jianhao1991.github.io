@@ -101,6 +101,7 @@ Peer Reviews
 - _Journal of Geophysical Research: Machine Learning and Computation_
 - _npj Climate and Atmospheric Science_
 - _Remote Sensing_
+- _Science Advances_
 
 Trainings  
 - Dialogic Skills Workshop Certificate, Univ. of Colorado Boulder (2025)  
