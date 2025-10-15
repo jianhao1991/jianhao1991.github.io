@@ -17,7 +17,7 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Under Review
-- **J. Zhang**, D. Painemal, B. Cairns, T. Dror et al. (2026): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, [to be submitted (under NOAA internal review)](#).
+- **J. Zhang**, D. Painemal, B. Cairns, T. Dror et al. (2026): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, [submitted](#).
 
 ## 2025
 - G. Feingold, F. Glassmeier, **J. Zhang**, and F. Hoffmann (2025): Opinion: Inferring process from snapshots of cloud systems. _Atmos. Chem. Phys._, 25(18), 10869–10885. [*doi:10.5194/acp-25-10869-2025*](https://doi.org/10.5194/acp-25-10869-2025)
