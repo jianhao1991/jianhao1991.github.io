@@ -76,7 +76,7 @@ Chair & Discussion Lead
 
 Committees
 - CIRES Members’ Council (2025–present)  
-- CIRES Mentoring Program (Vice Chair, 2024–present)  
+- CIRES Mentoring Program (Chair, 2024–present)  
 - NOAA OAR Subject Matter Expert in Satellite Data (2022–present)  
 - Univ. of Miami RSMAS Student Seminar Committee (2016)  
 
