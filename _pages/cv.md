@@ -44,7 +44,7 @@ toc:
 ## Grants
 - **P.I.**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
 - **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
-- **Co-I**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
+- **Co-PI**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
 - **Co-I**, Evaluating Biases in ACI Metrics with ARM Data & Models (DOE ASR, 2020–2023, \$510,472)  
 - **P.I.**, NRC Fellowship Award (2020–2021, \$62,000)  
 
