@@ -58,6 +58,7 @@ Mentoring
 - Tyler Tatro, Ph.D. student, University of Miami (2022–present)  
 - Alexander J. Thompson, Research Scientist, NOAA/PSL (2024–2025)  
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
+- Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (incoming 2026)
 
 Outreach
 - CIRES Science Pathways Program speaker (2025–)  
@@ -69,6 +70,7 @@ Outreach
 
 ## Professional Activities, Service, & Leadership Roles
 Chair & Discussion Lead  
+- Chair, AI4ACI, 18th Symposium on Aerosol-Cloud-Climate Interactions, AMS Annual Meeting (2026)
 - Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
 - Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
 - Co-Convener, AGU Fall Meeting (2024)  
