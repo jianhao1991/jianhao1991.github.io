@@ -23,7 +23,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
+*Clouds* have fascinated humanity for millennia with their everchanging shapes, colors, and textures. Beyond their beauty, clouds are fundamental to Earth's climate system, shaping both the hydrological cycle through precipitation and the global energy balance through their reflective (cooling) and heat-trapping (warming) properties. The processes governing cloud behavior span an extraordinary range of scales—from microscopic droplet formation to the evolution of weather systems hundreds of kilometers across—making clouds one of the least constrained components in predicting weather and climate.
+
+**I am particularly interested in characterizing and quantifying how clouds respond to changes in their environment, including variations in aerosol loading and meteorological conditions arising from human activities and natural climate variability.** These questions, multiscale by nature, continue to confound our understanding of the changing climate and obscure projections of our planet's future. To address these challenges, I leverage data-driven methods that integrate satellite observations, atmospheric modeling, and field measurements to extract physical understanding of the processes governing clouds.
+
+<!--
 Clouds have fascinated humanity for millennia with their everchanging shapes, colors, and textures. Beyond their beauty, clouds are fundamental to Earth's climate system, influencing both the hydrological cycle (via precipitation) and global energy balance through their reflective (cooling) and heat-trapping (warming) properties. The processes that govern cloud behavior span from microscopic droplet formation to the evolution of weather systems hundreds of kilometers across, making cloud one of the least constrained wildcards in predicting weather and climate.
 
 **I'm a research scientist who studies clouds and their impact on the climate.** My research focuses on understanding how human activities modify clouds and how the resulting changes in climate feedback to clouds and society. I develop data-driven approaches (including AI/ML) that integrate satellite observations, atmospheric modeling, and field measurements to tackle these complex and challenging questions.
+-->
  
