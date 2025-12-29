@@ -121,7 +121,10 @@ Miscellaneous
 - Volunteer, CIRES Education & Outreach  
 - Intramural Basketball Official, Florida State University (2014)  
 
-## Selected Oral Presentations (2022– )
+## [full list of publications](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
+_(also in CV PDF and the **Publications** tab)_
+
+## Oral Presentations
 **2025**
 - **May** — AGU AS Early-Career Seminar (Online), _Global climate and air quality implications of regional emission shift._ [(invited)](#)
 - **April** 
@@ -152,6 +155,74 @@ Miscellaneous
     - _Albedo susceptibility of marine stratocumulus: The role of covarying meteorological conditions & its geographical distribution._  
     - _Amplified seasonal cycle in southeastern Atlantic low cloud fraction when biomass-burning smoke is present._
 
+**2021**
+- **December** — AGU Fall Meeting (Online),  
+  _Albedo susceptibility of Northeastern Pacific stratocumulus: The role of covarying meteorological conditions._
+- **May** — ACPC Workshop 2021 (Online),  
+  _Meteorological constraints on low-cloud radiative forcing sensitivity to cloud droplet number concentration perturbations over the northeast Pacific stratocumulus region._
 
-## [full list of publications](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
-_(also in CV PDF and the **Publications** tab)_
+**2020**
+- **June** — DOE ARM/ASR PI Meeting (Online),  
+  _Amplified seasonal cycle of low clouds over the remote southeast Atlantic when biomass-burning aerosol is present._
+- **May** — CLARIFY / ORACLES / LASIC / AEROCOLA-Sa Joint Science Team Meeting (Online),  
+  _Smoke appears to amplify the low-cloud seasonal cycle over the remote southeast Atlantic._
+
+**2019**
+- **May** — ORACLES Science Team Meeting (Miami, FL),  
+  _Understanding the low cloud reduction and its diurnal cycle within the smoky boundary layer in the remote southeast Atlantic._
+- **April** — EGU General Assembly (Vienna, Austria),  
+  _Understanding the low cloud reduction and its diurnal cycle within the smoky boundary layer in the remote southeast Atlantic._
+- **March** — CLARIFY / ORACLES / LASIC / AEROCOLA-Sa Joint Workshop (Paris, France),  
+  _Low cloud reduction within the smoky boundary layer and its diurnal cycle._
+- **January** — AMS Annual Meeting (Phoenix, AZ),  
+  _Understanding semi-direct effect within the smoky marine boundary layer over the remote southeast Atlantic._
+
+**2018**
+- **July** — AMS 15th Conference on Cloud Physics (Vancouver, BC, Canada),  
+  _Adjustments of the cloudy marine boundary layer to light-absorbing aerosols above the remote southeast Atlantic._
+
+
+## Poster Presentations
+**2025**
+- **July** — Radiation and Climate Gordon Research Conference and Seminar (Lewiston, ME),  
+  _Large radiative forcing from the 2020 shipping fuel regulation is hard to detect._
+- **May** — CIRES Rendezvous (Boulder, CO),  
+  _Large radiative forcing from the 2020 shipping fuel regulation is hard to detect._
+
+**2024**
+- **December** — AGU Fall Meeting (Washington, DC),  
+  _Learning from the disagreement between GCMs and observations on marine low-cloud susceptibility to aerosol._
+
+**2023**
+- **December** — AGU Fall Meeting (San Francisco, CA),  
+  _Assessing detectability of Marine Cloud Brightening (MCB) over the Northeastern Pacific using a data-driven approach._
+- **November** — ACTIVATE Science Team Meeting (Tucson, AZ),  
+  _Exploring emergent properties of complex aerosol–cloud–meteorology interactions over the western North Atlantic during ACTIVATE._
+- **November** — NOAA Earth Radiation Budget Project Meeting (Boulder, CO),  
+  _NOAA Marine Cloud Brightening satellite and LES work._
+- **January** — AMS Annual Meeting (Denver, CO),  
+  _The role of meteorology and aerosol in controlling marine low cloud fraction and brightness: A data-driven approach._
+
+**2022**
+- **May** — CIRES Rendezvous (Boulder, CO),  
+  _Albedo susceptibility of marine low clouds: Where/when to find susceptible clouds and the role of covarying meteorology._
+
+**2021**
+- **September** — CFMIP 2021 Conference (Online),  
+  _Amplified seasonal cycle in southeastern Atlantic low cloud fraction when biomass-burning smoke is present._
+
+**2020**
+- **December** — AGU Fall Meeting (Online),  
+  _Amplified seasonal cycle in low-cloud fraction over the remote southeast Atlantic when shortwave-absorbing aerosols are present._
+
+**2017**
+- **December** — AGU Fall Meeting (New Orleans, LA),  
+  _Boundary layer adjustments to the presence of absorbing aerosols inferred from the LASIC field campaign._
+- **July** — Gordon Research Conference and Gordon Research Seminar (Lewiston, ME),  
+  _Boundary layer adjustments to the presence of absorbing aerosols inferred from the LASIC field campaign._
+- **January** — AMS Annual Meeting (Seattle, WA),  
+  _Tropical humidity vertical structure inferred from a Microwave Radiometer during DYNAMO._
+
+**2016**
+- **April** — EGU General Assembly (Vienna, Austria),  
+  _Retrievals on tropical small-scale humidity variability from a multi-channel microwave radiometer._
