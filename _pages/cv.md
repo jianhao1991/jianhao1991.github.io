@@ -35,6 +35,7 @@ toc:
   Magna cum laude
 
 ## Honors & Awards
+- NOAA Boulder Outreach Gold Star Award, 2025
 - Reflective Fellowship, Reflective Inc., 2025  
 - National Research Council Research Associateship Fellowship, 2020  
 - NASA Group Achievement Awards (ACTIVATE Team, 2023; ORACLES Team, 2019)  
