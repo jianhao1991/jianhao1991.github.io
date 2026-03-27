@@ -43,6 +43,9 @@ toc:
 - University of Miami Graduate Fellowship (highest graduate school award), 2014  
 
 ## Grants
+Pending
+  - **P.I.**, Causal Understanding of the Transition between the Radiatively Clear and Opaque States in the Arctic Region (DOE ASR, \$941,198) 
+  - **Co-PI**,The Radiative Energy Balance of a Tipping Amazon (CIRES Innovative Research Program, CU Boulder, \$30,000)
 - **P.I.**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
 - **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
 - **Co-PI**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
