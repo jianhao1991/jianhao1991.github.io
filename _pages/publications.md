@@ -17,6 +17,7 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Under Review
+- **J. Zhang**, J. J. Gristey, and G. Feingold, _Nature_, [under review].
 - **J. Zhang**, D. Painemal, T. Dror et al.: Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _EGUsphere._, [under review], 1-29. [*doi:10.5194/egusphere-2025-5119*](https://doi.org/10.5194/egusphere-2025-5119).
 
 ## 2025
