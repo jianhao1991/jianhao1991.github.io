@@ -5,7 +5,7 @@ title: curriculum vitae
 description: 
 nav: true
 nav_order: 2
-cv_pdf: Jianhao_CV.pdf
+cv_pdf: Jianhao_CV_Mar2026.pdf
 toc:
   sidebar: left
 ---
