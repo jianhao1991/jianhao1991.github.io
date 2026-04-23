@@ -44,7 +44,6 @@ toc:
 
 ## Grants
 - **P.I. (pending)**, Causal Understanding of the Transition between the Radiatively Clear and Opaque States in the Arctic Region (DOE ASR, \$941,198) 
-- **Co-PI (pending)**,The Radiative Energy Balance of a Tipping Amazon (CIRES Innovative Research Program, CU Boulder, \$30,000)
 - **P.I.**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
 - **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
 - **Co-PI**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
@@ -64,6 +63,7 @@ Mentoring
 - Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (incoming 2026)
 
 Outreach
+- Guest Speaker for the Program for Exploratory Studies at CU Boulder (Apr 2026)
 - CIRES Science Pathways Program speaker (2025–)  
 - Scientist Panelist, Boulder High School Environmental Studies (2025)  
 - Panelist, CIRES Graduate Student Workshop (2025)  
