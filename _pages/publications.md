@@ -17,8 +17,10 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Upcoming
-- **J. Zhang**, J. J. Gristey, and G. Feingold, _Nature_, [Accepted].
-- **J. Zhang**, D. Painemal, T. Dror et al.: Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _EGUsphere._, [Accepted], 1-29. [*doi:10.5194/egusphere-2025-5119*](https://doi.org/10.5194/egusphere-2025-5119).
+- **J. Zhang**, J. J. Gristey, and G. Feingold (2026): Earth's East-West albedo symmetry. _Nature_, [In press].
+
+## 2026
+- **J. Zhang**, D. Painemal, T. Dror, J.-S. Lim, A. Sorooshian, and G. Feingold (2024): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, 26(9), 6015–6034. [*doi:10.5194/acp-26-6015-2026*](https://doi.org/10.5194/acp-26-6015-2026)
 
 ## 2025
 - G. Feingold, F. Glassmeier, **J. Zhang**, and F. Hoffmann (2025): Opinion: Inferring process from snapshots of cloud systems. _Atmos. Chem. Phys._, 25(18), 10869–10885. [*doi:10.5194/acp-25-10869-2025*](https://doi.org/10.5194/acp-25-10869-2025)
