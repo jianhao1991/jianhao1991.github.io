@@ -23,9 +23,11 @@ toc:
 
 
 ## Professional Experience
-- **Research Scientist II**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, May 2023–present
+- **Research Scientist III**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, May 2023–present
+- **Research Scientist II**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, May 2023–Apr 2026
 - **Research Scientist I**, NOAA Chemical Sciences Laboratory & CIRES, Univ. of Colorado Boulder, Sept 2021–Apr 2023
-- **NRC Postdoctoral Fellow**, NOAA Chemical Sciences Laboratory (host: Graham Feingold), Sept 2020–Aug 2021
+- **NRC Postdoctoral Fellow**, NOAA Chemical Sciences Laboratory (host: Graham Feingold),<br>
+  Sept 2020–Aug 2021
 
 ## Education
 - **Ph.D., Meteorology & Physical Oceanography**, University of Miami, 2020  
