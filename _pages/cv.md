@@ -10,9 +10,6 @@ toc:
   sidebar: left
 ---
 
-
-<!-- ## [Download PDF]({{ '/assets/pdf/Zelinka_CV.pdf' | relative_url }})  -->
-
 <br>
 
 ## Research Interests  
@@ -62,7 +59,7 @@ Mentoring
 - Tyler Tatro, Ph.D. student, University of Miami (2022–present)  
 - Alexander J. Thompson, Research Scientist, NOAA/PSL (2024–2025)  
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
-- Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (incoming 2026)
+- Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (Summer 2026)
 
 Outreach
 - Guest Speaker for the Program for Exploratory Studies at CU Boulder (Apr 2026)
@@ -131,6 +128,9 @@ _(also in CV PDF and the **Publications** tab)_
 
 ## Oral Presentations
 **2026**
+- **May** 
+    - Libera Science Team Meeting (Berkeley, CA), _Earth's East-West Albedo Symmetry._ [(invited)](#)
+    - CERES Science Team Meeting (Langley, VA), _Earth's East-West Albedo Symmetry._
 - **March** - NOAA Chemical Sciences Laboratory Seminar (Boulder, CO), _A cloudy story of Earth’s radiation budget._ [(invited)](#)
 **2025**
 - **May** — AGU AS Early-Career Seminar (Online), _Global climate and air quality implications of regional emission shift._ [(invited)](#)
