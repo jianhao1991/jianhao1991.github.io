@@ -5,7 +5,7 @@ title: curriculum vitae
 description: 
 nav: true
 nav_order: 2
-cv_pdf: Jianhao_CV_May2026.pdf
+cv_pdf: Jianhao_CV_Jun2026.pdf
 toc:
   sidebar: left
 ---
@@ -128,10 +128,12 @@ _(also in CV PDF and the **Publications** tab)_
 
 ## Oral Presentations
 **2026**
+- **June** - 2nd GEWEX Earth Energy Imbalance (EEI) Workshop (Pasadena, CA), _Earth's East-West Albedo Symmetry._
 - **May** 
     - Libera Science Team Meeting (Berkeley, CA), _Earth's East-West Albedo Symmetry._ [(invited)](#)
     - CERES Science Team Meeting (Langley, VA), _Earth's East-West Albedo Symmetry._
 - **March** - NOAA Chemical Sciences Laboratory Seminar (Boulder, CO), _A cloudy story of Earth’s radiation budget._ [(invited)](#)
+
 **2025**
 - **May** — AGU AS Early-Career Seminar (Online), _Global climate and air quality implications of regional emission shift._ [(invited)](#)
 - **April** 
