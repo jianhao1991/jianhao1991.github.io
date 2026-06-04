@@ -23,7 +23,7 @@ toc:
 
   - [Earth has a mysterious triple symmetry that may influence its climate](https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/). <i class="fas fa-bullhorn"></i> 
   - [Clouds shape a newly identified east–west symmetry in Earth's reflected sunlight](https://cires.colorado.edu/news/clouds-shape-newly-identified-east-west-symmetry-earths-reflected-sunlight/). <i class="fas fa-bullhorn"></i> 
-
+<br>
 
 - **J. Zhang**, D. Painemal, T. Dror, J.-S. Lim, A. Sorooshian, and G. Feingold (2024): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, 26(9), 6015–6034. [*doi:10.5194/acp-26-6015-2026*](https://doi.org/10.5194/acp-26-6015-2026)
 
