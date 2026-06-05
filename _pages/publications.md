@@ -23,6 +23,7 @@ toc:
 
   - [Earth has a mysterious triple symmetry that may influence its climate](https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/). <i class="fas fa-bullhorn"></i> 
   - [Clouds shape a newly identified east–west symmetry in Earth's reflected sunlight](https://cires.colorado.edu/news/clouds-shape-newly-identified-east-west-symmetry-earths-reflected-sunlight/). <i class="fas fa-bullhorn"></i> 
+  - [Understanding Earth's hidden east-west symmetry could improve climate models](https://phys.org/news/2026-06-earth-hidden-east-west-symmetry.html). <i class="fas fa-bullhorn"></i> 
 <div>
 </div>
 
