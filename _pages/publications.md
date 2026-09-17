@@ -17,10 +17,13 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Upcoming
+- T. Dror, **J. Zhang**, and G. Feingold (2026): Amazon darkening mitigated by all-sky biophysical feedbacks. _Nature Communications_, [under review].
+
+- M. Diamond, A. Ackerman, A. Baró Pérez, et al. including **J. Zhang** (2026): Drizzle drives model differences in the Southeastern Atlantic Stratocumulus Transitions with Aerosol-Rain-Radiation interactions (SEA STARR) large eddy simulation intercomparison project. _Atmos. Chem. Phys._, [under review].
 
 ## 2026
-- **J. Zhang**, J. J. Gristey, and G. Feingold (2026): Earth's East-West albedo symmetry. _Nature_, [*doi:10.1038/s41586-026-10624-2*](https://doi.org/10.1038/s41586-026-10624-2)
-
+- **J. Zhang**, J. J. Gristey, and G. Feingold (2026): Earth's East-West albedo symmetry. _Nature_, 654, 676-682. [*doi:10.1038/s41586-026-10624-2*](https://doi.org/10.1038/s41586-026-10624-2)
+  - [Understanding Earth's hidden east-west symmetry could improve climate models](https://phys.org/news/2026-06-earth-hidden-east-west-symmetry.html). <i class="fas fa-bullhorn"></i> 
   - [Earth has a mysterious triple symmetry that may influence its climate](https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/). <i class="fas fa-bullhorn"></i> 
   - [Clouds shape a newly identified east–west symmetry in Earth's reflected sunlight](https://cires.colorado.edu/news/clouds-shape-newly-identified-east-west-symmetry-earths-reflected-sunlight/). <i class="fas fa-bullhorn"></i> 
   - [Understanding Earth's hidden east-west symmetry could improve climate models](https://phys.org/news/2026-06-earth-hidden-east-west-symmetry.html). <i class="fas fa-bullhorn"></i> 
@@ -77,6 +80,8 @@ toc:
 - **J. Zhang**, P. Zuidema, D.D. Turner, and M.P. Cadeddu (2018): Surface-based microwave humidity retrievals over the equatorial Indian ocean: Applications and challenges. _J. Appl. Meteor. Climatol._, 57(8), 1765–1782. [*doi:10.1175/JAMC-D-17-0301.1*](https://doi.org/10.1175/JAMC-D-17-0301.1)
 
 ## Other Publications
+- D. Painemal, **J. Zhang**, and R. Ferrare (2026): Observational needs for reducing uncertainties in the quantification of aerosol-cloud interactions and radiative forcing, white paper, A response to the Request for Information of the Decadal Survey for Earth Science and Applications from Space 2028–2037 (ESAS 2028).
+
 - **J. Zhang** and G. Feingold (2024): Physical Science of Marine Cloud Brightening: Knowledge and Gaps, in Topical Group on the Physics of Climate, American Physical Society, October 2024, pp. 1–4. [(invited article)](https://engage.aps.org/gpc/resources/newsletters)
 
 - G. Feingold, V. Ghate, L. M. Russell, et al. including **J. Zhang** (2022): DOE–NOAA Marine Cloud Brightening Workshop, in U.S. Department of Energy and U.S. Department of Commerce NOAA, DOE/SC-0207; NOAA Technical Report OAR ESRL/CSL-1, pp. 1–33. [*https://doi.org/10.2172/1888986*](https://doi.org/10.2172/1888986)

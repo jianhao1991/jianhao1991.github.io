@@ -5,7 +5,7 @@ title: curriculum vitae
 description: 
 nav: true
 nav_order: 2
-cv_pdf: Jianhao_CV_Jun2026.pdf
+cv_pdf: Jianhao_CV_Sept2026.pdf
 toc:
   sidebar: left
 ---
@@ -13,9 +13,10 @@ toc:
 <br>
 
 ## Research Interests  
-- cloud physics
-- aerosol-cloud-climate interactions
-- climate intervention (MCB, SAI)
+- Cloud Physics
+- Aerosol-Cloud-Climate Interactions
+- Climate Intervention (MCB, MCT, SAI)
+- Earth's Energy Imbalance
 - AI/ML application in atmospheric & climate science
 
 
@@ -42,7 +43,7 @@ toc:
 - University of Miami Graduate Fellowship (highest graduate school award), 2014  
 
 ## Grants
-- **P.I. (pending)**, Causal Understanding of the Transition between the Radiatively Clear and Opaque States in the Arctic Region (DOE ASR, \$941,198) 
+- **Investigator**, Assessing the detectability of small-scale stratospheric aerosol injections (DoW ESTCP Natural Hazards Project NH26-9821) 
 - **P.I.**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
 - **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
 - **Co-PI**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
@@ -71,7 +72,8 @@ Outreach
 - Science vetting: children’s book *Up, Up High*  
 
 ## Professional Activities, Service, & Leadership Roles
-Chair & Discussion Lead  
+Chair & Discussion Lead
+- Co-Chair, AMS 17th Conf. on Atmospheric Radiation (2026) 
 - Chair, AI4ACI, 18th Symposium on Aerosol-Cloud-Climate Interactions, AMS Annual Meeting (2026)
 - Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
 - Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
@@ -104,12 +106,13 @@ Peer Reviews
 - _Journal of Climate_
 - _Journal of Geophysical Research: Atmospheres_
 - _Journal of Geophysical Research: Machine Learning and Computation_
+- _Nature Communications_
 - _npj Climate and Atmospheric Science_
 - _Remote Sensing_
 - _Science Advances_
 
-Trainings  
-- Dialogic Skills Workshop Certificate, Univ. of Colorado Boulder (2025)  
+Workshops
+- 2nd GEWEX Earth Energy Imbalance Workshop (rapporteur,2026)
 - Micro2Macro Workshop (US CLIVAR, rapporteur, 2024)  
 - DOE–NOAA MCB Workshop (rapporteur, 2022)  
 - EarthCare Workshop (2022); Aerosol–Clouds–Convection–Precipitation Workshop (2020)  
@@ -119,7 +122,8 @@ Field Campaigns
 - ORACLES–2016, Swakopmund, Namibia  
 - ORACLES–2017, São Tomé and Príncipe  
 
-Miscellaneous  
+Trainings
+- Dialogic Skills Workshop Certificate, Univ. of Colorado Boulder (2025)  
 - Volunteer, CIRES Education & Outreach  
 - Intramural Basketball Official, Florida State University (2014)  
 
@@ -128,6 +132,7 @@ _(also in CV PDF and the **Publications** tab)_
 
 ## Oral Presentations
 **2026**
+- **August** - 17th Conference on Atmospheric Radiation, AMS Madison Summit (Madison, WI), _Earth hemispheric albedo symmetries and their implication for ERB._
 - **June** - 2nd GEWEX Earth Energy Imbalance (EEI) Workshop (Pasadena, CA), _Earth's East-West Albedo Symmetry._
 - **May** 
     - Libera Science Team Meeting (Berkeley, CA), _Earth's East-West Albedo Symmetry._ [(invited)](#)
@@ -192,6 +197,14 @@ _(also in CV PDF and the **Publications** tab)_
 
 
 ## Poster Presentations
+**2026**
+- **August** - 17th Conference on Cloud Physics, AMS Madison Summit (Madison, WI),
+  _Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite._
+- **June** - Gordon Research Conference on Climate Engineering (Newry, ME),
+  _A framework for SRM detectability (detection \& attribution): The case of SAI._
+- **May** - CIRES Rendezvous (Boulder, CO),
+  _Earth's East-West Albedo Symmetry._
+
 **2025**
 - **July** — Radiation and Climate Gordon Research Conference and Seminar (Lewiston, ME),  
   _Large radiative forcing from the 2020 shipping fuel regulation is hard to detect._
