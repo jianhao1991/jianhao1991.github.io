@@ -1075,6 +1075,13 @@ nav[data-toggle="toc"] {
 
 // Research themes preamble
 
+// circle size at three breakpoints, and the two overlap multipliers
+$research-circle-size: 210px;
+$research-circle-size-md: 188px;
+$research-circle-size-sm: 146px;
+$research-circle-width: 1.87;
+$research-circle-height: 1.75;
+
 .research-themes {
   padding-top: 1rem;
 
@@ -1083,13 +1090,14 @@ nav[data-toggle="toc"] {
     margin-bottom: 1.5rem;
   }
 
-  // three overlapping circles arranged as a triangular Venn diagram
+  // three overlapping circles arranged as a triangular Venn diagram.
+  // $research-circle-size (top of this block) sets the size; the two multipliers
+  // below set how much the circles overlap - see the table in research_themes.yml.
   .research-theme-list {
-    --circle-size: 210px;
-    height: calc(var(--circle-size) * 1.75);
+    height: $research-circle-size * $research-circle-height;
     margin: 0 auto;
     position: relative;
-    width: calc(var(--circle-size) * 1.87);
+    width: $research-circle-size * $research-circle-width;
   }
 
   .research-theme-circle {
@@ -1101,14 +1109,14 @@ nav[data-toggle="toc"] {
     cursor: pointer;
     display: flex;
     flex-direction: column;
-    height: var(--circle-size);
+    height: $research-circle-size;
     justify-content: center;
     padding: 1rem;
     position: absolute;
     text-align: center;
     text-decoration: none;
     transition: opacity 0.25s ease, transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
-    width: var(--circle-size);
+    width: $research-circle-size;
     z-index: 2;
 
     &:nth-child(1) {
@@ -1123,7 +1131,7 @@ nav[data-toggle="toc"] {
 
     &:nth-child(3) {
       bottom: 0;
-      left: calc(50% - var(--circle-size) / 2);
+      left: calc(50% - #{$research-circle-size * 0.5});
     }
 
     &:hover {
@@ -1213,7 +1221,17 @@ nav[data-toggle="toc"] {
 
   @media (max-width: 767px) {
     .research-theme-list {
-      --circle-size: 188px;
+      height: $research-circle-size-md * $research-circle-height;
+      width: $research-circle-size-md * $research-circle-width;
+    }
+
+    .research-theme-circle {
+      height: $research-circle-size-md;
+      width: $research-circle-size-md;
+
+      &:nth-child(3) {
+        left: calc(50% - #{$research-circle-size-md * 0.5});
+      }
     }
 
     .research-theme-circle {
@@ -1229,7 +1247,17 @@ nav[data-toggle="toc"] {
 
   @media (max-width: 479px) {
     .research-theme-list {
-      --circle-size: 146px;
+      height: $research-circle-size-sm * $research-circle-height;
+      width: $research-circle-size-sm * $research-circle-width;
+    }
+
+    .research-theme-circle {
+      height: $research-circle-size-sm;
+      width: $research-circle-size-sm;
+
+      &:nth-child(3) {
+        left: calc(50% - #{$research-circle-size-sm * 0.5});
+      }
     }
 
     .research-theme-circle {
