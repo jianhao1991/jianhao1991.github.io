@@ -1,6 +1,6 @@
 ---
 layout: page
-title: press
+title: Press
 permalink: /press/
 description: 
 nav: true

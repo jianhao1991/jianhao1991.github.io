@@ -8,7 +8,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 6
+  per_page: 50
   sort_field: date
   sort_reverse: true
   trail:
@@ -27,6 +27,8 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
+
+  {% include research_themes.html %}
 
   {% if site.display_tags or site.display_categories %}
   <div class="tag-category-list">
@@ -115,8 +117,9 @@ pagination:
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
+    {% assign post_themes = post.themes | join: " " %}
 
-    <li>
+    <li data-themes="{{ post_themes }}">
 {%- if post.thumbnail -%}
 <div class="row">
           <div class="col-sm-9">
@@ -134,13 +137,19 @@ pagination:
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>
-      <p class="post-meta">
-        {{ read_time }} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %-d, %Y' }}
-        {%- if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {%- endif %}
+      {%- if post.external_source %}
+      <p class="post-meta">{{ post.external_source }}</p>
+      {%- endif %}
+      {% if post.themes %}
+      <p class="post-meta post-themes">
+        {% for theme_id in post.themes %}
+          {% assign theme = site.data.research_themes.themes | where: "id", theme_id | first %}
+          {% if theme %}
+          <a href="{{ '/research/' | relative_url }}#{{ theme.id }}"><i class="{{ theme.icon }} fa-sm"></i> {{ theme.title }}</a>{% unless forloop.last %} &nbsp; &middot; &nbsp;{% endunless %}
+          {% endif %}
+        {% endfor %}
       </p>
+      {% endif %}
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>

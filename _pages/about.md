@@ -14,8 +14,9 @@ profile:
     <p>Boulder, CO, USA</p>
 
       
+research_themes: true # show the triangular research themes (set to false and news to true to switch back)
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # shows entries marked with the selected marker in _pages/publications.md
 social: true  # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items

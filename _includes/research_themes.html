@@ -1,0 +1,124 @@
+{% comment %}
+  Renders the three research themes as a triangular Venn diagram.
+
+  Default (on /research/): clickable buttons that filter the project list below.
+  link_only=true (e.g. on the about page): each circle links to /research/#<theme id>,
+  with no filtering script.
+{% endcomment %}
+{% assign link_only = include.link_only %}
+
+<div class="research-themes">
+  {% unless include.hide_intro %}
+  {% if site.data.research_themes.intro %}
+  <p class="research-themes-intro">{{ site.data.research_themes.intro }}</p>
+  {% endif %}
+  {% endunless %}
+
+  <div class="research-theme-list" id="research-theme-list">
+    {% for theme in site.data.research_themes.themes %}
+    {% if link_only %}
+    <a class="research-theme-circle" href="{{ '/research/' | relative_url }}#{{ theme.id }}" title="{{ theme.description | strip_newlines | strip }}">
+      <span class="research-theme-icon">{{ theme.icon_html }}</span>
+      <span class="research-theme-name">{{ theme.title }}</span>
+    </a>
+    {% else %}
+    <button type="button" class="research-theme-circle" id="{{ theme.id }}" data-theme="{{ theme.id }}" aria-pressed="false" data-description="{{ theme.description | strip_newlines | strip }}">
+      <span class="research-theme-icon">{{ theme.icon_html }}</span>
+      <span class="research-theme-name">{{ theme.title }}</span>
+    </button>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if link_only %}
+  <p class="research-theme-status">Click a theme to see the projects it covers.</p>
+  {% else %}
+  <div class="research-theme-panel">
+    <p class="research-theme-description" id="research-theme-description">Click a theme to see the projects it covers.</p>
+    <p class="research-theme-status">
+      <span id="research-theme-status-text">Showing all projects.</span>
+      <button type="button" id="research-theme-clear" class="research-theme-clear" hidden>show all</button>
+    </p>
+  </div>
+  {% endif %}
+</div>
+{% unless link_only %}
+<hr>
+{% endunless %}
+
+{% unless link_only %}
+
+<script>
+  function init() {
+    var list = document.getElementById('research-theme-list');
+    var buttons = Array.prototype.slice.call(document.querySelectorAll('.research-theme-circle'));
+    var posts = Array.prototype.slice.call(document.querySelectorAll('.post-list > li[data-themes]'));
+    var description = document.getElementById('research-theme-description');
+    var statusText = document.getElementById('research-theme-status-text');
+    var clearButton = document.getElementById('research-theme-clear');
+    if (!list || !buttons.length || !posts.length) return;
+
+    var hint = description.textContent;
+    var active = null;
+
+    function buttonFor(id) {
+      return buttons.filter(function (b) { return b.dataset.theme === id; })[0];
+    }
+
+    function apply(id) {
+      active = id;
+      buttons.forEach(function (button) {
+        var on = button.dataset.theme === id;
+        button.classList.toggle('active', on);
+        button.setAttribute('aria-pressed', on ? 'true' : 'false');
+      });
+      list.classList.toggle('has-active', !!id);
+
+      var shown = 0;
+      posts.forEach(function (post) {
+        var themes = (post.dataset.themes || '').split(' ');
+        var show = !id || themes.indexOf(id) !== -1;
+        post.hidden = !show;
+        if (show) shown += 1;
+      });
+
+      if (id) {
+        var button = buttonFor(id);
+        description.textContent = button.dataset.description;
+        statusText.textContent = 'Showing ' + shown + ' project' + (shown === 1 ? '' : 's') + ' in ' + button.querySelector('.research-theme-name').textContent + '.';
+        clearButton.hidden = false;
+      } else {
+        description.textContent = hint;
+        statusText.textContent = 'Showing all projects.';
+        clearButton.hidden = true;
+      }
+
+      history.replaceState(null, '', id ? '#' + id : window.location.pathname);
+    }
+
+    buttons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        apply(active === button.dataset.theme ? null : button.dataset.theme);
+      });
+    });
+
+    clearButton.addEventListener('click', function () { apply(null); });
+
+    var fromHash = window.location.hash.replace('#', '');
+    if (fromHash && buttonFor(fromHash)) {
+      apply(fromHash);
+    }
+
+    window.addEventListener('hashchange', function () {
+      var id = window.location.hash.replace('#', '');
+      apply(buttonFor(id) ? id : null);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+</script>
+{% endunless %}

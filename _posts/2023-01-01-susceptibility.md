@@ -3,15 +3,16 @@ layout: post
 title:  Low-Cloud Albedo Susceptibility to Aerosol Perturbations
 date: 2023-01-05
 description: Using satellite snapshot to derive albedo susceptibility for marine stratocumulus clouds and explore its co-variability with large-scale meteorological conditions.
-tags: satellite ERA5-reanalysis Marine-Cloud-Brightening
-categories: research
+tags: satellite cloud-susceptibility process-fingerprinting MCB
+themes: [boundary-layer-clouds, climate-engineering]
+#categories: research
 thumbnail: assets/img/Z22_L_N.png
 ---
 
 Characterizing and quantifying aerosol-cloud interactions are fundamental to improving future climate projections and assessing the viability of MCB. In this work, I developed a satellite-based, bottom-up framework for deriving cloud albedo susceptibility that controls for co-varying meteorological factors. This method revealed three distinct, physically-supported susceptibility regimes, their meteorological drivers, and their spatiotemporal variability across marine low-cloud regions. 
 
 > **_The Science_**
-The sensitivity of cloud brightness (ability to cool the Earth through reflecting sunlight) to the amount of aerosol (tiny particles in the atmosphere) in the marine boundary layer is quantified using spaceborne observations of clouds and radiation. When clouds are sorted by their amount of water condensate and number of droplets, cloud regimes emerge, distinguished by their potential to be brightened or darkened in response to an aerosol perturbation. These regimes include (i) thin non-precipitating clouds that exhibit brightening, where the Twomey effect is expected to dominate; (ii) thicker non-precipitating clouds that exhibit darkening, where microphysically driven entrainment feedbacks are expected to be the most active; and (iii) mostly precipitating clouds that exhibit brightening, consistent with the precipitation-suppression mechanism due to reduced drop sizes.
+The sensitivity of cloud brightness (ability to cool the Earth through reflecting sunlight) to the amount of aerosol (tiny particles in the atmosphere) in the marine boundary layer is quantified using spaceborne observations of clouds and radiation. When clouds are sorted by their amount of water condensate and number of droplets, cloud regimes emerge, distinguished by their potential to be brightened or darkened in response to an aerosol perturbation. These regimes include (i) thin non-precipitating clouds that exhibit brightening, where the Twomey effect is expected to dominate; (ii) thicker non-precipitating clouds that exhibit darkening, where microphysically driven entrainment feedbacks are expected to be the most active; and (iii) mostly precipitating clouds that exhibit brightening, consistent with the precipitation-suppression mechanism due to reduced drop sizes. These state-dependent cloud susceptibilities are scaled up using geophysical variable (GV) spaces (e.g., LWP-Nd) to producing occurrence-weighted forcing susceptibilities.
 
 > We find that this regime manifestation in the LWP-Nd space is robust across different subtropical ocean basins where marine stratocumuli prevail. We further demonstrate that the covariation among synoptic scale environmental conditions dictates how clouds populate each regime, leading to regionally distinct evolutions in cloud brightness sensitivity to aerosol changes.
 

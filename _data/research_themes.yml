@@ -1,0 +1,43 @@
+# Research themes shown in the preamble of the /research/ page.
+# Link a post to one or more themes by listing theme ids in its front matter, e.g.
+#   themes: [boundary-layer-clouds, climate-engineering]
+#
+# icon_html: markup shown inside the circular theme button (may combine icons)
+# icon:      single icon class used for the small theme links under each project
+
+intro: >
+  My research is organized around three interconnected themes. Understanding the processes that govern
+  boundary layer clouds underpins both the assessment of deliberate climate interventions and the
+  interpretation of the increasing Earth's energy imbalance, while each of these applications in turn
+  sharpens the questions we ask about cloud processes.
+
+themes:
+
+  - id: energy-imbalance
+    title: Earth's Energy Imbalance
+    #icon: fa-solid fa-scale-balanced
+    #icon_html: '<i class="fa-solid fa-scale-balanced"></i>'
+    icon_html: '<img class="theme-icon-img" src="/assets/img/icons/eei.png" alt="">'
+    description: >
+      How clouds shape Earth's reflected sunlight and radiative budget, and how anthropogenic changes
+      contribute to the energy imbalance through aerosol-cloud interactions and cloud feedback.
+
+  - id: climate-engineering
+    title: Climate Engineering
+    #icon: fa-solid fa-wrench
+    #icon_html: '<i class="fa-solid fa-earth-americas"></i><i class="fa-solid fa-wrench theme-icon-2nd"></i>'
+    # To use a downloaded icon instead (put the file in assets/img/icons/), swap the line above for:
+    icon_html: '<img class="theme-icon-img" src="/assets/img/icons/geoengineering.png" alt="">'
+    description: >
+      The physical science basis, viability, risks, and the detectability of climate intervention such as marine cloud
+      brightening (MCB), mixed-phase cloud thinning (MCT), and stratospheric aerosol injection (SAI), informed by natural and inadvertent aerosol perturbations like ship tracks and by GeoMIP simulations.
+
+  - id: boundary-layer-clouds
+    title: Boundary Layer Clouds
+    #icon: fa-solid fa-cloud
+    #icon_html: '<i class="fa-solid fa-cloud"></i>'
+    icon_html: '<img class="theme-icon-img" src="/assets/img/icons/clouds.png" alt="">'
+    description: >
+      Understanding the processes that govern boundary layer clouds, including their susceptibility to aerosol perturbations, 
+      entrainment, precipitation, mixed-phase processes, land-surface coupling,
+      and morphological transitions, using field observations, satellites, and large-eddy simulations.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: publications
+title: Publications
 permalink: /publications/
 description: 
 nav: true
@@ -13,6 +13,7 @@ toc:
 
 
 <!-- https://www.w3schools.com/icons/fontawesome5_icons_code.asp -->
+<!-- Add the marker <!-\-selected-\-> at the end of an entry to feature it under "Selected Publications" on the about page. -->
 <i class="fas fa-bullhorn"></i> = Media Coverage  
 <i class="far fa-star"></i> = Highlight Paper
 
@@ -22,7 +23,7 @@ toc:
 - M. Diamond, A. Ackerman, A. Baró Pérez, et al. including **J. Zhang** (2026): Drizzle drives model differences in the Southeastern Atlantic Stratocumulus Transitions with Aerosol-Rain-Radiation interactions (SEA STARR) large eddy simulation intercomparison project. _Atmos. Chem. Phys._, [under review].
 
 ## 2026
-- **J. Zhang**, J. J. Gristey, and G. Feingold (2026): Earth's East-West albedo symmetry. _Nature_, 654, 676-682. [*doi:10.1038/s41586-026-10624-2*](https://doi.org/10.1038/s41586-026-10624-2)
+- **J. Zhang**, J. J. Gristey, and G. Feingold (2026): Earth's East-West albedo symmetry. _Nature_, 654, 676-682. [*doi:10.1038/s41586-026-10624-2*](https://doi.org/10.1038/s41586-026-10624-2) <!--selected-->
   - [Understanding Earth's hidden east-west symmetry could improve climate models](https://phys.org/news/2026-06-earth-hidden-east-west-symmetry.html). <i class="fas fa-bullhorn"></i> 
   - [Earth has a mysterious triple symmetry that may influence its climate](https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/). <i class="fas fa-bullhorn"></i> 
   - [Clouds shape a newly identified east–west symmetry in Earth's reflected sunlight](https://cires.colorado.edu/news/clouds-shape-newly-identified-east-west-symmetry-earths-reflected-sunlight/). <i class="fas fa-bullhorn"></i> 
@@ -30,12 +31,12 @@ toc:
 <div>
 </div>
 
-- **J. Zhang**, D. Painemal, T. Dror, J.-S. Lim, A. Sorooshian, and G. Feingold (2024): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, 26(9), 6015–6034. [*doi:10.5194/acp-26-6015-2026*](https://doi.org/10.5194/acp-26-6015-2026)
+- **J. Zhang**, D. Painemal, T. Dror, J.-S. Lim, A. Sorooshian, and G. Feingold (2026): Inferring processes governing cloud transition during mid-latitude marine cold-air outbreaks from satellite. _Atmos. Chem. Phys._, 26(9), 6015–6034. [*doi:10.5194/acp-26-6015-2026*](https://doi.org/10.5194/acp-26-6015-2026) 
 
 ## 2025
-- G. Feingold, F. Glassmeier, **J. Zhang**, and F. Hoffmann (2025): Opinion: Inferring process from snapshots of cloud systems. _Atmos. Chem. Phys._, 25(18), 10869–10885. [*doi:10.5194/acp-25-10869-2025*](https://doi.org/10.5194/acp-25-10869-2025)
+- G. Feingold, F. Glassmeier, **J. Zhang**, and F. Hoffmann (2025): Opinion: Inferring process from snapshots of cloud systems. _Atmos. Chem. Phys._, 25(18), 10869–10885. [*doi:10.5194/acp-25-10869-2025*](https://doi.org/10.5194/acp-25-10869-2025) <!--selected-->
 
-- **J. Zhang**, Y.-S. Chen, E. Gryspeerdt, T. Yamaguchi, and G. Feingold (2025): Radiative forcing from the 2020 shipping fuel regulation is large but hard to detect. _Commun. Earth Environ._, 6(18), 1–11. [*doi:10.1038/s43247-024-01911-9*](https://doi.org/10.1038/s43247-024-01911-9)
+- **J. Zhang**, Y.-S. Chen, E. Gryspeerdt, T. Yamaguchi, and G. Feingold (2025): Radiative forcing from the 2020 shipping fuel regulation is large but hard to detect. _Commun. Earth Environ._, 6(18), 1–11. [*doi:10.1038/s43247-024-01911-9*](https://doi.org/10.1038/s43247-024-01911-9) <!--selected-->
   - [The unintended consequences of reducing sulfur emissions from ships](https://cpo.noaa.gov/the-unintended-consequences-of-reducing-sulfur-emissions-from-ships/). <i class="fas fa-bullhorn"></i> 
   - [Scientists turn to artificial intelligence to access the warming effect of reduced pollution](https://research.noaa.gov/scientists-turn-to-artificial-intelligence-to-assess-the-warming-effect-of-reduced-pollution/). <i class="fas fa-bullhorn"></i> 
   - [Cleaner Ships, Hotter Earth: The Unexpected Climate Twist](https://scitechdaily.com/cleaner-ships-hotter-earth-the-unexpected-climate-twist/). <i class="fas fa-bullhorn"></i> 
@@ -44,26 +45,26 @@ toc:
 ## 2024
 - Y.-S. Chen, **J. Zhang**, F. Hoffmann, T. Yamaguchi, and G. Feingold (2024): Diurnal evolution of non-precipitating marine stratocumuli in a large-eddy simulation ensemble. _Atmos. Chem. Phys._, 24(22), 12661–12685. [*doi:10.5194/acp-24-12661-2024*](https://doi.org/10.5194/acp-24-12661-2024)
 
-- G. Feingold, V. Ghate, L. Russell, et al. including **J. Zhang** (2024): Physical science research needed to evaluate the viability and risks of marine cloud brightening. _Sci. Adv._, 10(12), eadi8594. [*doi:10.1126/sciadv.adi8594*](https://doi.org/10.1126/sciadv.adi8594)
+- G. Feingold, V. Ghate, L. Russell, et al. including **J. Zhang** (2024): Physical science research needed to evaluate the viability and risks of marine cloud brightening. _Sci. Adv._, 10(12), eadi8594. [*doi:10.1126/sciadv.adi8594*](https://doi.org/10.1126/sciadv.adi8594) <!--selected-->
 
-- **J. Zhang**, Y.-S. Chen, T. Yamaguchi, and G. Feingold (2024): Cloud water adjustments to aerosol perturbations are buffered by solar heating in non-precipitating marine stratocumuli. _Atmos. Chem. Phys._, 24(18), 10425–10440. [*doi:10.5194/acp-24-10425-2024*](https://doi.org/10.5194/acp-24-10425-2024)
+- **J. Zhang**, Y.-S. Chen, T. Yamaguchi, and G. Feingold (2024): Cloud water adjustments to aerosol perturbations are buffered by solar heating in non-precipitating marine stratocumuli. _Atmos. Chem. Phys._, 24(18), 10425–10440. [*doi:10.5194/acp-24-10425-2024*](https://doi.org/10.5194/acp-24-10425-2024) <!--selected-->
 
 ## 2023
 - C. Howes, P. Saide, H. Coe, et al. including **J. Zhang** (2023): Biomass-burning smoke’s properties and its interactions with marine stratocumulus clouds in WRF-CAM5 and southeastern Atlantic field campaigns. _Atmos. Chem. Phys._, 23(21), 13911–13945. [*doi:10.5194/acp-23-13911-2023*](https://doi.org/10.5194/acp-23-13911-2023)
 
-- **J. Zhang** and G. Feingold (2023): Distinct regional meteorological influences on low-cloud albedo susceptibility over global marine stratocumulus regions. _Atmos. Chem. Phys._, 23(2), 1073–1090. [*doi:10.5194/acp-23-1073-2023*](https://doi.org/10.5194/acp-23-1073-2023)
+- **J. Zhang** and G. Feingold (2023): Distinct regional meteorological influences on low-cloud albedo susceptibility over global marine stratocumulus regions. _Atmos. Chem. Phys._, 23(2), 1073–1090. [*doi:10.5194/acp-23-1073-2023*](https://doi.org/10.5194/acp-23-1073-2023) <!--selected-->
 
 ## 2022
 - P. Barrett, S. Abel, H. Coe, et al. including **J. Zhang** (2022): Intercomparison of airborne and surface-based measurements during the CLARIFY, ORACLES and LASIC field experiments. _Atmos. Meas. Tech._, 15(21), 6329–6371. [*doi:10.5194/amt-15-6329-2022*](https://doi.org/10.5194/amt-15-6329-2022)
 
 - M. Diamond, P. Saide, P. Zuidema, et al. including **J. Zhang** (2022): Cloud adjustments from large-scale smoke–circulation interactions strongly modulate the southeastern Atlantic stratocumulus-to-cumulus transition. _Atmos. Chem. Phys._, 22(18), 12113–12151. [*doi:10.5194/acp-22-12113-2022*](https://doi.org/10.5194/acp-22-12113-2022) [(ACP highligh article)](#) <i class="far fa-star"></i> 
 
-- **J. Zhang**, X. Zhou, T. Goren, and G. Feingold (2022): Albedo susceptibility of northeastern Pacific stratocumulus: the role of covarying meteorological conditions. _Atmos. Chem. Phys._, 22(2), 861–880. [*doi:10.5194/acp-22-861-2022*](https://doi.org/10.5194/acp-22-861-2022)
+- **J. Zhang**, X. Zhou, T. Goren, and G. Feingold (2022): Albedo susceptibility of northeastern Pacific stratocumulus: the role of covarying meteorological conditions. _Atmos. Chem. Phys._, 22(2), 861–880. [*doi:10.5194/acp-22-861-2022*](https://doi.org/10.5194/acp-22-861-2022) <!--selected-->
 
 ## 2021
 - X. Zhou, **J. Zhang**, and G. Feingold (2021): On the importance of sea surface temperature for aerosol-induced brightening of marine clouds and implications for cloud feedback in a future warmer climate. _Geophys. Res. Lett._, 48(24), e2021GL095896. [*doi:10.1029/2021GL095896*](https://doi.org/10.1029/2021GL095896)
 
-- **J. Zhang** and P. Zuidema (2021): Sunlight-absorbing aerosol amplifies the seasonal cycle in low-cloud fraction over the southeast Atlantic. _Atmos. Chem. Phys._, 21(14), 11179–11199. [*doi:10.5194/acp-21-11179-2021*](https://doi.org/10.5194/acp-21-11179-2021)
+- **J. Zhang** and P. Zuidema (2021): Sunlight-absorbing aerosol amplifies the seasonal cycle in low-cloud fraction over the southeast Atlantic. _Atmos. Chem. Phys._, 21(14), 11179–11199. [*doi:10.5194/acp-21-11179-2021*](https://doi.org/10.5194/acp-21-11179-2021) <!--selected-->
   - [Smoke Studies: Crucial Cloud-Deck Science](https://www.arm.gov/news/features/post/71223/). <i class="fas fa-bullhorn"></i>
 
 ## 2020

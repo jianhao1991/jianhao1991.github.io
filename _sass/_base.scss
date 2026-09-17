@@ -259,6 +259,7 @@ blockquote {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    text-transform: capitalize;
 
     &:hover {
       color: var(--global-hover-color);
@@ -1070,4 +1071,197 @@ nav[data-toggle="toc"] {
 
 #toc-sidebar {
   z-index: 1;
+}
+
+// Research themes preamble
+
+.research-themes {
+  padding-top: 1rem;
+
+  .research-themes-intro {
+    color: var(--global-text-color);
+    margin-bottom: 1.5rem;
+  }
+
+  // three overlapping circles arranged as a triangular Venn diagram
+  .research-theme-list {
+    --circle-size: 210px;
+    height: calc(var(--circle-size) * 1.75);
+    margin: 0 auto;
+    position: relative;
+    width: calc(var(--circle-size) * 1.87);
+  }
+
+  .research-theme-circle {
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.07);
+    border: 2px solid var(--global-divider-color);
+    border-radius: 50%;
+    color: var(--global-text-color);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: var(--circle-size);
+    justify-content: center;
+    padding: 1rem;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    transition: opacity 0.25s ease, transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease, color 0.25s ease;
+    width: var(--circle-size);
+    z-index: 2;
+
+    &:nth-child(1) {
+      left: 0;
+      top: 0;
+    }
+
+    &:nth-child(2) {
+      right: 0;
+      top: 0;
+    }
+
+    &:nth-child(3) {
+      bottom: 0;
+      left: calc(50% - var(--circle-size) / 2);
+    }
+
+    &:hover {
+      border-color: var(--global-theme-color);
+      color: var(--global-theme-color);
+      z-index: 3;
+    }
+
+    &.active {
+      background-color: var(--global-card-bg-color);
+      border-color: var(--global-theme-color);
+      box-shadow: 0 0 0 5px rgba(128, 128, 128, 0.18);
+      color: var(--global-theme-color);
+      opacity: 1;
+      transform: scale(1.08);
+      z-index: 4;
+    }
+
+    .research-theme-icon {
+      color: var(--global-theme-color);
+      font-size: 2.6rem;
+      line-height: 1;
+      margin-bottom: 0.5rem;
+
+      .theme-icon-2nd {
+        font-size: 0.7em;
+        margin-left: 0.2em;
+        vertical-align: super;
+      }
+
+      .theme-icon-img {
+        display: block;
+        height: 3.4rem;
+        margin: 0 auto;
+        width: auto;
+      }
+    }
+
+    .research-theme-name {
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.25;
+      max-width: 80%;
+    }
+  }
+
+  // when one theme is selected, push the others back
+  .research-theme-list.has-active .research-theme-circle:not(.active) {
+    opacity: 0.4;
+    transform: scale(0.94);
+    z-index: 1;
+
+    &:hover {
+      opacity: 0.7;
+    }
+  }
+
+  .research-theme-panel {
+    margin: 1.5rem auto 0;
+    max-width: 42rem;
+    text-align: center;
+  }
+
+  .research-theme-description {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    margin-bottom: 0.35rem;
+    min-height: 3rem;
+  }
+
+  .research-theme-status {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+  .research-theme-clear {
+    background: none;
+    border: none;
+    color: var(--global-theme-color);
+    cursor: pointer;
+    font-size: 0.875rem;
+    padding: 0 0 0 0.25rem;
+    text-decoration: underline;
+  }
+
+  @media (max-width: 767px) {
+    .research-theme-list {
+      --circle-size: 188px;
+    }
+
+    .research-theme-circle {
+      .research-theme-icon {
+        font-size: 2.15rem;
+      }
+
+      .research-theme-name {
+        font-size: 0.85rem;
+      }
+    }
+  }
+
+  @media (max-width: 479px) {
+    .research-theme-list {
+      --circle-size: 146px;
+    }
+
+    .research-theme-circle {
+      padding: 0.5rem;
+
+      .research-theme-icon {
+        font-size: 1.8rem;
+        margin-bottom: 0.35rem;
+      }
+
+      .research-theme-name {
+        font-size: 0.72rem;
+        max-width: 92%;
+      }
+    }
+  }
+}
+
+.post-list .post-themes a {
+  color: var(--global-theme-color);
+}
+
+// extra breathing room between the sections on the about page
+.about-section-title {
+  margin-top: 2.25rem;
+}
+
+// paper titles in the about page's selected publications
+.selected-publications .publication-title {
+  color: #1565c0;
+}
+
+html[data-theme='dark'] .selected-publications .publication-title {
+  color: #6fb1ff;
 }

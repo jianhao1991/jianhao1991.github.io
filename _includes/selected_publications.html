@@ -1,0 +1,33 @@
+{% comment %}
+  Shows the publications you flagged in _pages/publications.md.
+
+  To highlight a paper, add the marker <!--selected--> at the end of its line there:
+    - **J. Zhang**, ... _Nature_, ... <!--selected-->
+  Remove the marker to drop it from the about page. Order follows publications.md.
+{% endcomment %}
+
+{% capture newline %}
+{% endcapture %}
+{% assign publications_page = site.pages | where: "permalink", "/publications/" | first %}
+{% assign lines = publications_page.content | split: newline %}
+
+<ul class="selected-publications">
+  {% for line in lines %}
+    {% if line contains "<!--selected-->" %}
+      {% assign entry = line | remove: "<!--selected-->" | strip | remove_first: "- " %}
+      {% comment %} wrap the paper title (between "): " and the italicised journal) so it can be coloured {% endcomment %}
+      {% assign head_split = entry | split: "): " %}
+      {% if head_split.size > 1 %}
+        {% assign authors = head_split | first %}
+        {% assign tail = head_split | shift | join: "): " %}
+        {% assign title_split = tail | split: ". _" %}
+        {% if title_split.size > 1 %}
+          {% assign title = title_split | first %}
+          {% assign rest = title_split | shift | join: ". _" %}
+          {% capture entry %}{{ authors }}): <span class="publication-title">{{ title }}</span>. _{{ rest }}{% endcapture %}
+        {% endif %}
+      {% endif %}
+      <li>{{ entry | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
