@@ -39,15 +39,15 @@ toc:
 - Reflective Fellowship, Reflective Inc., 2025  
 - National Research Council Research Associateship Fellowship, 2020  
 - NASA Group Achievement Awards (ACTIVATE Team, 2023; ORACLES Team, 2019)  
-- Finalist, University of Miami Best Ph.D. Dissertation, 2020  
+- Meteorology \& Physical Oceanography Program Best Ph.D. Dissertation, 2020  
 - University of Miami Graduate Fellowship (highest graduate school award), 2014  
 
 ## Grants
-- **Investigator**, Assessing the detectability of small-scale stratospheric aerosol injections (DoW ESTCP Natural Hazards Project NH26-9821) 
+- **Co-I.**, Assessing the detectability of small-scale stratospheric aerosol injections (DOD ESTCP Natural Hazards Project NH26-9821) 
 - **P.I.**, A Framework for Assessing SRM Detectability for Informed Decision-Making (Reflective, 2025–2026, \$162,768)  
-- **Co-I**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
-- **Co-PI**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
-- **Co-I**, Evaluating Biases in ACI Metrics with ARM Data & Models (DOE ASR, 2020–2023, \$510,472)  
+- **Co-I.**, Aerosol-Cloud Interactions Centered on MAGIC (DOE ASR, 2023–2026, \$670,445)  
+- **CIRES P.I.**, Exploring ACI in Geophysical Variable Spaces using NASA ACTIVATE (2023–2024, \$350,000)  
+- **Co-I.**, Evaluating Biases in ACI Metrics with ARM Data & Models (DOE ASR, 2020–2023, \$510,472)  
 - **P.I.**, NRC Fellowship Award (2020–2021, \$62,000)  
 
 ## Teaching, Mentoring & Outreach
@@ -72,13 +72,15 @@ Outreach
 - Science vetting: children’s book *Up, Up High*  
 
 ## Professional Activities, Service, & Leadership Roles
-Chair & Discussion Lead
-- Co-Chair, AMS 17th Conf. on Atmospheric Radiation (2026) 
-- Chair, AI4ACI, 18th Symposium on Aerosol-Cloud-Climate Interactions, AMS Annual Meeting (2026)
-- Discussion Lead, Gordon Research Seminar on Radiation and Climate (2025)  
-- Session Co-Lead, Univ. of Washington MCB Workshop (2025)  
-- Co-Convener, AGU Fall Meeting (2024)  
-- Co-Chair, AMS 16th Conf. on Cloud Physics (2022)  
+Convener
+- AMS 17th Conf. on Atmospheric Radiation (2026) 
+- AMS Annual Meeting (2026), Advances in Assessing Aerosol Impacts on Clouds Through AI and Advanced Statistical Techniques
+- AGU Fall Meeting (2024), Advances in Cloud and Precipitation Processes: Integrating Observations, Modeling, and Theory
+- AMS 16th Conf. on Cloud Physics (2022)  
+
+Discussion Lead
+- Gordon Research Seminar on Radiation and Climate (2025)  
+- Univ. of Washington Inaugural MCB Workshop (2025)  
 
 Committees
 - AGU Dewan Scholarship (2026-present)
@@ -126,6 +128,10 @@ Trainings
 - Dialogic Skills Workshop Certificate, Univ. of Colorado Boulder (2025)  
 - Volunteer, CIRES Education & Outreach  
 - Intramural Basketball Official, Florida State University (2014)  
+
+Editorship
+- Frontiers in Remote Sensing 
+- Atmosphere
 
 ## [full list of publications](https://scholar.google.com/citations?user=01D4MHkAAAAJ&hl=en)  
 _(also in CV PDF and the **Publications** tab)_
