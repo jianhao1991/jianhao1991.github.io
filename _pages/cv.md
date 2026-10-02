@@ -52,6 +52,7 @@ toc:
 
 ## Teaching, Mentoring & Outreach
 Teaching
+- Guest Lecturer: Program for Exploratory Studies, CU Boulder (2026)
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
 - Teaching Assistant: Introduction to Weather and Climate, University of Miami (2015)  
 - Math Tutor: AP Calculus & undergraduate statistics, Miami (2015–2020)  
@@ -63,7 +64,6 @@ Mentoring
 - Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (Summer 2026)
 
 Outreach
-- Guest Speaker for the Program for Exploratory Studies at CU Boulder (Apr 2026)
 - CIRES Science Pathways Program speaker (2025–)  
 - Scientist Panelist, Boulder High School Environmental Studies (2025)  
 - Panelist, CIRES Graduate Student Workshop (2025)  
