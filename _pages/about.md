@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 6 # leave blank to include all the news in the `_news` folder
 ---
 
 *Clouds* have fascinated humanity for millennia with their everchanging shapes, colors, and textures. Beyond their beauty, clouds are fundamental to Earth's climate system, shaping both the hydrological cycle through precipitation and the global energy balance through their reflective (cooling) and heat-trapping (warming) properties. The processes governing cloud behavior span an extraordinary range of scales—from microscopic droplet formation to the evolution of weather systems hundreds of kilometers across—making clouds one of the least constrained components in predicting weather and climate.

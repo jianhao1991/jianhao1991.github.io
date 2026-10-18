@@ -54,6 +54,7 @@ toc:
 Teaching
 - Guest Lecturer: Program for Exploratory Studies, CU Boulder (2026)
 - Guest Lecturer: Aerosol–Cloud–Climate Interactions, TU Delft (2024)  
+- Teaching Assistant: Cloud Physics and Radiative Transfer, University of Miami (2016)  
 - Teaching Assistant: Introduction to Weather and Climate, University of Miami (2015)  
 - Math Tutor: AP Calculus & undergraduate statistics, Miami (2015–2020)  
 
@@ -68,7 +69,7 @@ Outreach
 - Scientist Panelist, Boulder High School Environmental Studies (2025)  
 - Panelist, CIRES Graduate Student Workshop (2025)  
 - Invited Scientist, Boulder Valley Rotary Club (2025)  
-- Evaluator: RECCS Symposium (2024), GLOBE International Virtual Symposium (2022), CLEAN Network (2022), AGU OSPA (2020)  
+- Evaluator: CU Boulder RECCS Symposium (2024), GLOBE International Virtual Symposium (2022), CLEAN Network (2022), AGU OSPA (2020)  
 - Science vetting: children’s book *Up, Up High*  
 
 ## Professional Activities, Service, & Leadership Roles
