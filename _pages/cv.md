@@ -5,7 +5,7 @@ title: Curriculum Vitae
 description: 
 nav: true
 nav_order: 2
-cv_pdf: Jianhao_CV_short_Oct2026.pdf
+cv_pdf: Jianhao_CV_short_Nov2026.pdf
 toc:
   sidebar: left
 ---
@@ -59,12 +59,13 @@ Teaching
 - Math Tutor: AP Calculus & undergraduate statistics, Miami (2015–2020)  
 
 Mentoring
-- Tyler Tatro, Ph.D. student, University of Miami (2022–present)  
+- Tyler Tatro, Ph.D. student, University of Miami (2022–2026)  
 - Alexander J. Thompson, Research Scientist, NOAA/PSL (2024–2025)  
 - Danyan Leng, Ph.D. student, University of Colorado Boulder (2025–present)  
 - Daisy Kerr, NOAA Hollings Scholar, Physics undergrad at UC Berkeley (Summer 2026)
 
 Outreach
+- NOAA Speaker for CU Boulder Graduate Student's NOAA Tour (2026)  
 - CIRES Science Pathways Program speaker (2025–)  
 - Scientist Panelist, Boulder High School Environmental Studies (2025)  
 - Panelist, CIRES Graduate Student Workshop (2025)  
@@ -74,8 +75,8 @@ Outreach
 
 ## Professional Activities, Service, & Leadership Roles
 Convener
+- AMS Annual Meeting, Advances in Assessing Aerosol Impacts on Clouds Through AI and Advanced Statistical Techniques, Primary Convener since 2026.
 - AMS 17th Conf. on Atmospheric Radiation (2026) 
-- AMS Annual Meeting (2026), Advances in Assessing Aerosol Impacts on Clouds Through AI and Advanced Statistical Techniques
 - AGU Fall Meeting (2024), Advances in Cloud and Precipitation Processes: Integrating Observations, Modeling, and Theory
 - AMS 16th Conf. on Cloud Physics (2022)  
 
@@ -86,7 +87,7 @@ Discussion Lead
 Committees
 - AGU Dewan Scholarship (2026-present)
 - CIRES Members’ Council (2025–present)  
-- CIRES Mentoring Program (Chair, 2024–present)  
+- CIRES Mentoring Program (2024–present, Chair for 2025-2026)  
 - NOAA OAR Subject Matter Expert in Satellite Data (2022–present)  
 - Univ. of Miami RSMAS Student Seminar Committee (2016)  
 
@@ -104,6 +105,7 @@ Peer Reviews
 - _Climate Dynamics_
 - _Climate_
 - _Communications Earth & Environment_
+- _Earth's Future_
 - _Geophysical Research Letters_
 - _Journal of Applied Meteorology and Climatology_
 - _Journal of Climate_

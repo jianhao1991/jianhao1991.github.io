@@ -18,6 +18,10 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Upcoming
+- H. He, B. J. Soden, G. A. Vecchi, R. J. Kramer, **J. Zhang**, and C. Park (2026): Technical note: Aerosol forcing decomposition methods and recommendations. _Atmos. Chem. Phys._, [under review].
+
+- H. He, B. J. Soden, G. A. Vecchi, R. J. Kramer, **J. Zhang**, and C. Park (2026): State dependence of aerosol forcing and its implications for climate response. _Atmos. Chem. Phys._, [under review].
+
 - T. Dror, **J. Zhang**, and G. Feingold (2026): Amazon darkening mitigated by all-sky biophysical feedbacks. _Nature Communications_, [under review].
 
 - M. Diamond, A. Ackerman, A. Baró Pérez, et al. including **J. Zhang** (2026): Drizzle drives model differences in the Southeastern Atlantic Stratocumulus Transitions with Aerosol-Rain-Radiation interactions (SEA STARR) large eddy simulation intercomparison project. _Atmos. Chem. Phys._, [under review].
