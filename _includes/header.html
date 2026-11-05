@@ -79,6 +79,10 @@
                   {% endfor %}
                 </div>
               </li>
+              {%- elsif p.external_url %}
+              <li class="nav-item">
+                <a class="nav-link" href="{{ p.external_url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+              </li>
               {%- else %}
               <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
                 {%- if p.permalink contains '/blog/' %}

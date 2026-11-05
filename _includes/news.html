@@ -19,7 +19,8 @@
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% comment %} keep multi-paragraph items as paragraphs: each paragraph break becomes a blank line {% endcomment %}
+                {{ item.content | strip | remove: '</p>' | replace: '<p>', '<br><br>' | remove_first: '<br><br>' | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
               {% endif %}
