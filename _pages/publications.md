@@ -18,6 +18,8 @@ toc:
 <i class="far fa-star"></i> = Highlight Paper
 
 ## Upcoming
+- T. Yamaguchi, **J. Zhang**, and G. Feingold (2026): Aerosol susceptibility across the marine stratocumulus-to-cumulus transition: Lagrangian LES and environmental analogs. _Atmos. Chem. Phys._, [under review].
+
 - H. He, B. J. Soden, G. A. Vecchi, R. J. Kramer, **J. Zhang**, and C. Park (2026): Technical note: Aerosol forcing decomposition methods and recommendations. _Atmos. Chem. Phys._, [under review].
 
 - H. He, B. J. Soden, G. A. Vecchi, R. J. Kramer, **J. Zhang**, and C. Park (2026): State dependence of aerosol forcing and its implications for climate response. _Atmos. Chem. Phys._, [under review].
